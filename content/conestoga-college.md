@@ -275,41 +275,47 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 
 ---
 
-### 1. STEM / 과학·기술·공학·수학 (34)
-- 인공지능 및 기계 학습 응용 (코업 옵션) / Applied Artificial Intelligence & Machine Learning — Grad Cert — Sep, Jan, May — Code: 1557
-- 토목공학 기술자 (코업 옵션) / Civil Engineering Technician — Diploma — Sep — Code: 1629
-- 토목공학 테크놀로지 (코업 옵션) / Civil Engineering Technology — Adv Diploma — Sep — Code: 0024
-- 컴퓨터 애플리케이션 개발 (코업 옵션) / Computer Applications Development — Grad Cert — Sep, Jan, May — Code: 0066
-- 컴퓨터 공학 기술 (코업 옵션) / Computer Engineering Technology — Adv Diploma — Sep — Code: 1060
-- 컴퓨터 프로그래밍 / Computer Programming — Diploma — Sep, Jan, May — Code: 1009
-- 컴퓨터 프로그래밍 - 데이터 관리 / Computer Programming - Data Management — Diploma — Sep, Jan — Code: 1645
-- 컴퓨터 프로그래밍 및 분석 (코업 옵션) / Computer Programming and Analysis — Adv Diploma — Sep, Jan, May — Code: 0057
-- 컴퓨터 시스템 기술자 - IT 인프라 및 서비스 (코업 옵션) / Computer Systems Technician - IT Infrastructure and Services — Diploma — Sep, Jan — Code: 1097
-- 사이버 보안 대응 계획 (코업 옵션) / Cybersecurity Response Planning — Grad Cert — Sep, Jan, May — Code: 1580
-- 사이버보안 디지털 포렌식 / Digital Forensics in Cybersecurity — Grad Cert — Sep, Jan, May — Code: 1662
-- 데이터 처리 및 보고 / Data Processing and Reporting — Certificate — Sep, Jan, May — Code: 1493
-- 전기공학 기술자 / Electrical Engineering Technician — Diploma — Sep — Code: 0071
-- 전기공학 기술자 - 산업 (코업 옵션) / Electrical Engineering Technician - Industrial — Diploma — Sep, Jan — Code: 1154
-- 전기공학 테크놀로지 (코업 옵션) / Electrical Engineering Technology — Adv Diploma — Sep — Code: 0928
-- 전기기계 및 자동화 유지보수 (코업 옵션) / Electro Mechanical and Automation Maintenance — Diploma — Sep, Jan — Code: 1318
-- 전자공학 기술자 / Electronics Engineering Technician — Diploma — Sep — Code: 0064
-- 전자공학 테크놀로지 (코업 옵션) / Electronics Engineering Technology — Adv Diploma — Sep — Code: 0098
-- 환경공학 응용 (코업 옵션) / Environmental Engineering Applications — Grad Cert — Sep — Code: 0870
-- 금융 기술 / Financial Technology — Grad Cert — Sep, Jan, May — Code: 1519
-- IT 혁신 및 디자인 (코업 옵션) / IT Innovation and Design — Adv Diploma — Sep, Jan — Code: 0040
-- 정보기술 비즈니스 분석 / Information Technology Business Analysis — Grad Cert — Sep, Jan, May — Code: 1372
-- 정보기술 네트워크 보안 / Information Technology Network Security — Grad Cert — Sep, Jan, May — Code: 1475
-- 정보기술 프로젝트 관리 / Information Technology Project Management — Grad Cert — Sep, Jan, May — Code: 1566
-- 기계공학 기술자 - 자동화 제조 (코업 옵션) / Mechanical Engineering Technician - Automated Manufacturing — Diploma — Sep — Code: 0076
-- 기계공학 테크놀로지 - 설계 및 해석 (코업 옵션) / Mechanical Engineering Technology - Design and Analysis — Adv Diploma — Sep — Code: 0073
-- 기계공학 테크놀로지 - 로보틱스 및 자동화 (코업 옵션) / Mechanical Engineering Technology - Robotics and Automation — Adv Diploma — Sep — Code: 0092
-- 네트워크 기술 지원 / Network Technical Support — Certificate — Sep, Jan, May — Code: 1470
-- 산업보건, 안전 및 웰니스 / Occupational Health, Safety and Wellness — Grad Cert — Sep, Jan, May — Code: 1395
-- 로보틱스 및 산업 자동화 (코업 옵션) / Robotics and Industrial Automation — Grad Cert — Jan — Code: 1330G
-- 소프트웨어 공학 기술자 / Software Engineering Technician — Diploma — Sep — Code: 1046
-- 소프트웨어 공학 테크놀로지 (코업 옵션) / Software Engineering Technology — Adv Diploma — Sep, Jan — Code: 1132
-- 소프트웨어 품질보증 및 테스트 엔지니어링 (코업 옵션) / Software Quality Assurance and Test Engineering — Grad Cert — Sep, Jan, May — Code: 1447
-- 가상현실 제작 / Virtual Reality Production — Grad Cert — Sep, Jan, May — Code: 1515
+### 1. STEM / 과학·기술·공학·수학 (40)
+- 인공지능 및 기계 학습 응용 (코업 옵션) / Applied Artificial Intelligence & Machine Learning — Grad Cert — Sep, Jan, May — Code: 1557 — CIP: 11.0102
+- 비즈니스 - 보험 (코업 옵션) / Business - Insurance — Diploma — Sep, Jan — Code: 0722 — CIP: 52.1701
+- 토목공학 기술자 (코업 옵션) / Civil Engineering Technician — Diploma — Sep — Code: 1629 — CIP: 15.0201
+- 토목공학 테크놀로지 (코업 옵션) / Civil Engineering Technology — Adv Diploma — Sep — Code: 0024 — CIP: 15.0201
+- 컴퓨터 애플리케이션 개발 (코업 옵션) / Computer Applications Development — Grad Cert — Sep, Jan, May — Code: 0066 — CIP: 11.0201
+- 컴퓨터 공학 기술 (코업 옵션) / Computer Engineering Technology — Adv Diploma — Sep — Code: 1060 — CIP: 15.1201
+- 컴퓨터 프로그래밍 / Computer Programming — Diploma — Sep, Jan, May — Code: 1009 — CIP: 11.0201
+- 컴퓨터 프로그래밍 - 데이터 관리 / Computer Programming - Data Management — Diploma — Sep, Jan — Code: 1645 — CIP: 11.0201
+- 컴퓨터 프로그래밍 및 분석 (코업 옵션) / Computer Programming and Analysis — Adv Diploma — Sep, Jan, May — Code: 0057 — CIP: 11.0201
+- 컴퓨터 시스템 기술자 - IT 인프라 및 서비스 (코업 옵션) / Computer Systems Technician - IT Infrastructure and Services — Diploma — Sep, Jan — Code: 1097 — CIP: 15.1202
+- 사이버 보안 대응 계획 (코업 옵션) / Cybersecurity Response Planning — Grad Cert — Sep, Jan, May — Code: 1580 — CIP: 11.1003
+- 데이터 처리 및 보고 / Data Processing and Reporting — Certificate — Sep, Jan, May — Code: 1493 — CIP: 11.0501
+- 사이버보안 디지털 포렌식 / Digital Forensics in Cybersecurity — Grad Cert — Sep, Jan, May — Code: 1662 — CIP: 43.0403
+- 전자상거래 관리 / eCommerce Management — Grad Cert — Sep, May — Code: 1604 — CIP: 52.0208
+- 전기공학 기술자 / Electrical Engineering Technician — Diploma — Sep — Code: 0071 — CIP: 15.0303
+- 전기공학 기술자 - 산업 (코업 옵션) / Electrical Engineering Technician - Industrial — Diploma — Sep, Jan — Code: 1154 — CIP: 15.0303
+- 전기공학 테크놀로지 (코업 옵션) / Electrical Engineering Technology — Adv Diploma — Sep — Code: 0928 — CIP: 15.0303
+- 전기기계 및 자동화 유지보수 (코업 옵션) / Electro Mechanical and Automation Maintenance — Diploma — Sep, Jan — Code: 1318 — CIP: 15.0403
+- 전자공학 기술자 / Electronics Engineering Technician — Diploma — Sep — Code: 0064 — CIP: 15.0303
+- 전자공학 테크놀로지 (코업 옵션) / Electronics Engineering Technology — Adv Diploma — Sep — Code: 0098 — CIP: 15.0303
+- 환경공학 응용 (코업 옵션) / Environmental Engineering Applications — Grad Cert — Sep — Code: 0870 — CIP: 15.0507
+- 금융 기술 / Financial Technology — Grad Cert — Sep, Jan, May — Code: 1519 — CIP: 30.7104
+- 그래픽 디자인 / Graphic Design — Adv Diploma — Sep, Jan — Code: 0049 — CIP: 50.0409
+- 감염 예방 및 관리 / Infection Prevention and Control — Grad Cert — Sep, May — Code: 1621 — CIP: 51.2202
+- 정보기술 비즈니스 분석 / Information Technology Business Analysis — Grad Cert — Sep, Jan, May — Code: 1372 — CIP: 11.0501
+- 정보기술 네트워크 보안 / Information Technology Network Security — Grad Cert — Sep, Jan, May — Code: 1475 — CIP: 11.1003
+- 정보기술 프로젝트 관리 / Information Technology Project Management — Grad Cert — Sep, Jan, May — Code: 1566 — CIP: 11.1005
+- IT 혁신 및 디자인 (코업 옵션) / IT Innovation and Design — Adv Diploma — Sep, Jan — Code: 0040 — CIP: 11.0201
+- 기계공학 기술자 - 자동화 제조 (코업 옵션) / Mechanical Engineering Technician - Automated Manufacturing — Diploma — Sep — Code: 0076 — CIP: 15.0805
+- 기계공학 테크놀로지 - 설계 및 해석 (코업 옵션) / Mechanical Engineering Technology - Design and Analysis — Adv Diploma — Sep — Code: 0073 — CIP: 15.0805
+- 기계공학 테크놀로지 - 로보틱스 및 자동화 (코업 옵션) / Mechanical Engineering Technology - Robotics and Automation — Adv Diploma — Sep — Code: 0092 — CIP: 15.0405
+- 네트워크 기술 지원 / Network Technical Support — Certificate — Sep, Jan, May — Code: 1470 — CIP: 11.1001
+- 산업보건, 안전 및 웰니스 / Occupational Health, Safety and Wellness — Grad Cert — Sep, Jan, May — Code: 1395 — CIP: 15.0701
+- 부동산 개발 및 관리 / Real Estate Development and Management — Grad Cert — Sep, Jan, May — Code: 1612 — CIP: 04.1001
+- 소셜미디어 마케팅 / Social Media Marketing — Grad Cert — Sep, Jan, May — Code: 1537 — CIP: 52.1404
+- 소프트웨어 공학 기술자 / Software Engineering Technician — Diploma — Sep — Code: 1046 — CIP: 15.1204
+- 소프트웨어 공학 테크놀로지 (코업 옵션) / Software Engineering Technology — Adv Diploma — Sep, Jan — Code: 1132 — CIP: 15.1204
+- 소프트웨어 품질보증 및 테스트 엔지니어링 (코업 옵션) / Software Quality Assurance and Test Engineering — Grad Cert — Sep, Jan, May — Code: 1447 — CIP: 11.0103
+- 도시계획 및 GIS / Urban Planning and GIS — Diploma — Sep, Jan — Code: 1585 — CIP: 04.0301
+- 가상현실 제작 / Virtual Reality Production — Grad Cert — Sep, Jan, May — Code: 1515 — CIP: 11.0804
 
 ### 2. Education / 교육 (3)
 - 유아교육 / Early Childhood Education — Diploma — Sep, Jan, May — Code: 0003
