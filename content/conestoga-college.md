@@ -318,9 +318,9 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 - 가상현실 제작 / Virtual Reality Production — Grad Cert — Sep, Jan, May — Code: 1515 — CIP: 11.0804
 
 ### 2. Education / 교육 (3)
-- 유아교육 / Early Childhood Education — Diploma — Sep, Jan, May — Code: 0003
-- 유아교육 패스트트랙 / Early Childhood Education Fast Track — Diploma — Sep — Code: 00031
-- 교육 지원 / Educational Support — Diploma — Sep — Code: 1332
+- 유아교육 / Early Childhood Education — Diploma — Sep, Jan, May — Code: 0003 — CIP: 19.0709
+- 유아교육 패스트트랙 / Early Childhood Education Fast Track (ECE) — Diploma — Sep — Code: 00031 — CIP: 19.0709
+- 교육 지원 / Educational Support — Diploma — Sep — Code: 1332 — CIP: 13.1501
 
 ### 3. Healthcare / 보건 (20)
 - 생명 공학 기술자 / Biotechnology Technician — Diploma — Sep, May — Code: 1164 — CIP: 41.0101
