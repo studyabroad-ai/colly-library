@@ -275,9 +275,8 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 
 ---
 
-### 1. STEM / 과학·기술·공학·수학 (40)
+### 1. STEM / 과학·기술·공학·수학 (34)
 - 인공지능 및 기계 학습 응용 (코업 옵션) / Applied Artificial Intelligence & Machine Learning — Grad Cert — Sep, Jan, May — Code: 1557
-- 건축 - 건설 엔지니어링 기술 (코업 옵션) / Architecture - Construction Engineering Technology — Adv Diploma — Sep — Code: 0025
 - 토목공학 기술자 (코업 옵션) / Civil Engineering Technician — Diploma — Sep — Code: 1629
 - 토목공학 테크놀로지 (코업 옵션) / Civil Engineering Technology — Adv Diploma — Sep — Code: 0024
 - 컴퓨터 애플리케이션 개발 (코업 옵션) / Computer Applications Development — Grad Cert — Sep, Jan, May — Code: 0066
@@ -295,10 +294,8 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 - 전기기계 및 자동화 유지보수 (코업 옵션) / Electro Mechanical and Automation Maintenance — Diploma — Sep, Jan — Code: 1318
 - 전자공학 기술자 / Electronics Engineering Technician — Diploma — Sep — Code: 0064
 - 전자공학 테크놀로지 (코업 옵션) / Electronics Engineering Technology — Adv Diploma — Sep — Code: 0098
-- 에너지 시스템 엔지니어링 기술 - 전기 (코업 옵션) / Energy Systems Engineering Technology - Electrical — Adv Diploma — Sep — Code: 0029
 - 환경공학 응용 (코업 옵션) / Environmental Engineering Applications — Grad Cert — Sep — Code: 0870
 - 금융 기술 / Financial Technology — Grad Cert — Sep, Jan, May — Code: 1519
-- 난방, 냉장 및 에어컨 기술자 / Heating, Refrigeration and Air Conditioning Technician — Diploma — Sep, Jan — Code: 0465
 - IT 혁신 및 디자인 (코업 옵션) / IT Innovation and Design — Adv Diploma — Sep, Jan — Code: 0040
 - 정보기술 비즈니스 분석 / Information Technology Business Analysis — Grad Cert — Sep, Jan, May — Code: 1372
 - 정보기술 네트워크 보안 / Information Technology Network Security — Grad Cert — Sep, Jan, May — Code: 1475
@@ -312,10 +309,7 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 - 소프트웨어 공학 기술자 / Software Engineering Technician — Diploma — Sep — Code: 1046
 - 소프트웨어 공학 테크놀로지 (코업 옵션) / Software Engineering Technology — Adv Diploma — Sep, Jan — Code: 1132
 - 소프트웨어 품질보증 및 테스트 엔지니어링 (코업 옵션) / Software Quality Assurance and Test Engineering — Grad Cert — Sep, Jan, May — Code: 1447
-- 지속가능 폐기물 관리 (코업 옵션) / Sustainable Waste Management — Grad Cert — Sep, Jan, May — Code: 1599
 - 가상현실 제작 / Virtual Reality Production — Grad Cert — Sep, Jan, May — Code: 1515
-- 용접공학 기술자 - 로보틱스 (코업 옵션) / Welding Engineering Technician - Robotics — Diploma — Sep, Jan — Code: 1502
-- 용접공학 테크놀로지 - 검사 (코업 옵션) / Welding Engineering Technology - Inspection — Adv Diploma — Sep — Code: 0043
 
 ### 2. Education / 교육 (3)
 - 유아교육 / Early Childhood Education — Diploma — Sep, Jan, May — Code: 0003
@@ -344,32 +338,38 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 - 수의 보조 / Veterinary Assistant — Certificate — Sep, Jan, May — Code: 1548 — CIP: 01.8301
 - 수의 기술자 / Veterinary Technician — Diploma — Sep, Jan, May — Code: 1547 — CIP: 01.8301
 
-### 4. Trade / 기술직 (21)
-- 고급 CNC 제조 / Advanced CNC Manufacturing — Grad Cert — Sep, Jan, May — Code: 1581
-- 목공 및 리노베이션 기술자 (코업 옵션) / Carpentry and Renovation Technician — Diploma — Sep — Code: 1142
-- 건설 관리 (코업 옵션) / Construction Management — Grad Cert — Sep, Jan, May — Code: 1378G
-- 건설 기술 (목공) / Construction Techniques (Carpentry) — Certificate — Sep — Code: 07165
-- 건설 기술 (목공, 전기, HVAC 및 용접) / Construction Techniques (Carpentry, Electrical, HVAC and Welding) — Certificate — Sep — Code: 07161
-- 건설 기술 (벽돌, 배관, 전기, 목공) / Construction Techniques (Masonry, Plumbing, Electrical, and Carpentry) — Certificate — May — Code: 07164
-- 건설 기술 (용접, HVAC, 배관 및 벽돌) / Construction Techniques (Welding, HVAC, Plumbing, and Masonry) — Certificate — Jan — Code: 07163
-- 건설 기술 - 벽돌 및 석재 / Construction Techniques - Brick and Stone — Certificate — Sep — Code: 1497
-- 전기 기술 / Electrical Techniques — Certificate — Sep, Jan, May — Code: 1327
-- 기계 기술자 - 일반 기계가공 (코업 옵션) / Mechanical Technician - General Machinist — Diploma — Sep, May — Code: 1133
-- 기계 기술자 - 금형/공구 제작 (코업 옵션) / Mechanical Technician - Tool and Die/Tool Maker — Diploma — Sep, May — Code: 1135
-- 기계 기술 - 가스 및 판금 / Mechanical Techniques - Gas and Sheet Metal — Certificate — May — Code: 1511
-- 기계 기술 - 산업 설비정비 / Mechanical Techniques - Industrial Millwright — Certificate — Sep — Code: 1385
-- 기계 기술 - 배관 / Mechanical Techniques - Plumbing — Certificate — Sep — Code: 1245
-- 동력장치 기술자 - 중장비 (코업 옵션) / Motive Power Technician - Heavy Duty Equipment — Diploma — Sep — Code: 0737
-- 동력장치 기술 - 중장비 정비 / Motive Power Techniques - Heavy Duty Equipment Repair — Certificate — Sep — Code: 1382
-- 재생에너지 기술 / Renewable Energy Techniques — Certificate — Sep, Jan, May — Code: 1530
-- 용접 기술 / Welding Techniques — Certificate — Sep, Jan, May — Code: 1193
-- 용접 및 제작 기술자 / Welding and Fabrication Technician — Diploma — Sep — Code: 0046
-- 목공 기술자 / Woodworking Technician — Diploma — Sep — Code: 0054
-- 목공 테크놀로지 (코업 옵션) / Woodworking Technology — Adv Diploma — Sep — Code: 0804
+### 4. Trade / 기술직 (28)
+- 고급 CNC 제조 / Advanced CNC Manufacturing — Grad Cert — Sep, Jan, May — Code: 1581 — CIP: 48.0510
+- 건축 - 건설 엔지니어링 기술 (코업 옵션) / Architecture - Construction Engineering Technology — Adv Diploma — Sep — Code: 0025 — CIP: 15.1001
+- 목공 및 리노베이션 기술자 (코업 옵션) / Carpentry and Renovation Technician — Diploma — Sep — Code: 1142 — CIP: 46.0201
+- 건설 관리 (코업 옵션) / Construction Management — Grad Cert — Sep, Jan, May — Code: 1378G — CIP: 52.2001
+- 건설 기술 - 벽돌 및 석재 / Construction Techniques - Brick and Stone — Certificate — Sep — Code: 1497 — CIP: 46.0101
+- 건설 기술 (목공) / Construction Techniques (Carpentry) — Certificate — Sep — Code: 07165 — CIP: 46.0000
+- 건설 기술 (목공, 전기, HVAC 및 용접) / Construction Techniques (Carpentry, Electrical, HVAC and Welding) — Certificate — Sep — Code: 07161 — CIP: 46.0000
+- 건설 기술 (벽돌, 배관, 전기, 목공) / Construction Techniques (Masonry, Plumbing, Electrical, and Carpentry) — Certificate — May — Code: 07164 — CIP: 46.0000
+- 건설 기술 (용접, HVAC, 배관 및 벽돌) / Construction Techniques (Welding, HVAC, Plumbing, and Masonry) — Certificate — Jan — Code: 07163 — CIP: 46.0000
+- 조리 기술 (코업) / Culinary Skills (Co-op) — Certificate — Sep, Jan — Code: 1025C — CIP: 12.0500
+- 전기 기술 / Electrical Techniques — Certificate — Sep, Jan, May — Code: 1327 — CIP: 46.0302
+- 에너지 시스템 엔지니어링 기술 - 전기 (코업 옵션) / Energy Systems Engineering Technology - Electrical — Adv Diploma — Sep — Code: 0029 — CIP: 15.0501
+- 난방, 냉장 및 에어컨 기술자 / Heating, Refrigeration and Air Conditioning Technician — Diploma — Sep, Jan — Code: 0465 — CIP: 15.0501
+- 기계 기술자 - 일반 기계가공 (코업 옵션) / Mechanical Technician - General Machinist — Diploma — Sep, May — Code: 1133 — CIP: 48.0501
+- 기계 기술자 - 금형/공구 제작 (코업 옵션) / Mechanical Technician - Tool and Die/Tool Maker — Diploma — Sep, May — Code: 1135 — CIP: 48.0501
+- 기계 기술 - 가스 및 판금 / Mechanical Techniques - Gas and Sheet Metal — Certificate — May — Code: 1511 — CIP: 48.0506
+- 기계 기술 - 산업 설비정비 / Mechanical Techniques - Industrial Millwright — Certificate — Sep — Code: 1385 — CIP: 47.0303
+- 기계 기술 - 배관 / Mechanical Techniques - Plumbing — Certificate — Sep — Code: 1245 — CIP: 46.0503
+- 동력장치 기술자 - 중장비 (코업 옵션) / Motive Power Technician - Heavy Duty Equipment — Diploma — Sep — Code: 0737 — CIP: 47.0302
+- 동력장치 기술 - 중장비 정비 / Motive Power Techniques - Heavy Duty Equipment Repair — Certificate — Sep — Code: 1382 — CIP: 47.0302
+- 재생에너지 기술 / Renewable Energy Techniques — Certificate — Sep, Jan, May — Code: 1530 — CIP: 47.0701
+- 지속가능 폐기물 관리 (코업 옵션) / Sustainable Waste Management — Grad Cert — Sep, Jan, May — Code: 1599 — CIP: 15.0501
+- 용접 및 제작 기술자 / Welding and Fabrication Technician — Diploma — Sep — Code: 0046 — CIP: 48.0508
+- 용접공학 기술자 - 로보틱스 (코업 옵션) / Welding Engineering Technician - Robotics — Diploma — Sep, Jan — Code: 1502 — CIP: 15.0614
+- 용접공학 테크놀로지 - 검사 (코업 옵션) / Welding Engineering Technology - Inspection — Adv Diploma — Sep — Code: 0043 — CIP: 15.0614
+- 용접 기술 / Welding Techniques — Certificate — Sep, Jan, May — Code: 1193 — CIP: 48.0508
+- 목공 기술자 / Woodworking Technician — Diploma — Sep — Code: 0054 — CIP: 48.0701
+- 목공 테크놀로지 (코업 옵션) / Woodworking Technology — Adv Diploma — Sep — Code: 0804 — CIP: 48.0701
 
-### 5. Agriculture and agri-food / 농업·식품 (2)
-- 농업 비즈니스 관리 / Agri-Business Management — Grad Cert — Sep, Jan, May — Code: 1588
-- 조리 기술 (코업) / Culinary Skills (Co-op) — Certificate — Sep, Jan — Code: 1025C
+### 5. Agriculture and agri-food / 농업·식품 (1)
+- 농업 비즈니스 관리 / Agri-Business Management — Grad Cert — Sep, Jan, May — Code: 1588 — CIP: 01.0101
 
 ### 6. Transport / 운송 (4)
 - 비즈니스 - 상업용 트럭 운송을 위한 공급망 및 운영 관리 / Business - Supply Chain and Operations for Commercial Trucking — Diploma — Sep, Jan, May — Code: 1540
