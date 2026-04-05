@@ -138,14 +138,14 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
 
 ---
 
-## PGWP 가능 학과 목록 (공식 페이지 기준 전체)
-아래는 **Conestoga 공식 PGWP-aligned programs 페이지 1~6페이지 전체를 확인한 목록**이야.  
-학과명은 **한글 + 영어 병기**를 우선 적용했고, 아직 한글명이 없는 항목은 영어 기준으로 남겨뒀어.  
-최종 판단은 항상 IRCC 기준으로 다시 확인해야 해.
+## PGWP 가능 학과 목록 (공식 Managed field 기준 전체)
+아래는 **Conestoga 공식 PGWP-aligned programs 페이지에서 Managed field(필터) 기준으로 다시 정리한 전체 목록**이야.  
+즉, 내가 임의로 분류한 게 아니라 **사이트에서 Agriculture and agri-food / Degree exemptions / Education / Health care / STEM / Trade / Transport 로 직접 선택했을 때 보이는 기준**으로 맞췄어.  
+학과명은 모두 **한글 + 영어 병기**로 정리했고, 최종 판단은 항상 IRCC 기준으로 다시 확인해야 해.
 
 - **공식 PGWP 기준 페이지:** https://www.conestogac.on.ca/international/apply-to-conestoga/pgwp-aligned-programs
-- **확인 페이지:** 1~6페이지 전체 확인
-- **확인일 기준 수집 개수:** 116개
+- **정리 기준:** Managed field 필터 기준
+- **주의:** 한 프로그램이 사이트에서 여러 카테고리에 중복 노출될 수 있어.
 
 ### STEM / 과학·기술·공학·수학 (40)
 - **인공지능 및 기계 학습 응용 (코업 옵션) / Applied Artificial Intelligence & Machine Learning (Optional Co-op)**  
@@ -389,7 +389,31 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - Code: 0043  
   - Link: https://www.conestogac.on.ca/fulltime/welding-engineering-technology-inspection
 
-### 교육 / Education (1)
+### 교육 / Education (5)
+- **지역사회 및 형사사법 학사 (우등 학사) / Bachelor of Community and Criminal Justice (Honours)**  
+  - Credential: Degree  
+  - Start: September  
+  - CIP: 43.0104  
+  - Code: 1240C  
+  - Link: https://www.conestogac.on.ca/fulltime/bachelor-of-community-and-criminal-justice-honours
+- **유아교육 프로그램 개발 학사 (우등 학사) / Bachelor of Early Learning Program Development (Honours)**  
+  - Credential: Degree  
+  - Start: September  
+  - CIP: 13.1210  
+  - Code: 1355C  
+  - Link: https://www.conestogac.on.ca/fulltime/bachelor-of-early-learning-program-development-honours
+- **유아교육 / Early Childhood Education**  
+  - Credential: Ontario College Diploma  
+  - Start: September, January, May  
+  - CIP: 19.0709  
+  - Code: 0003  
+  - Link: https://www.conestogac.on.ca/fulltime/early-childhood-education
+- **유아교육 패스트트랙 (ECE) / Early Childhood Education Fast Track (ECE)**  
+  - Credential: Ontario College Diploma  
+  - Start: September  
+  - CIP: 19.0709  
+  - Code: 00031  
+  - Link: https://www.conestogac.on.ca/fulltime/early-childhood-education-fast-track-ece
 - **교육 지원 / Educational Support**  
   - Credential: Ontario College Diploma  
   - Start: September  
@@ -606,6 +630,20 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 01.8301  
   - Code: 1547  
   - Link: https://www.conestogac.on.ca/fulltime/veterinary-technician
+
+### Transport / 운송 (2)
+- **동력장치 기술자 - 중장비 (코업 옵션) / Motive Power Technician - Heavy Duty Equipment (Optional Co-op)**  
+  - Credential: Ontario College Diploma  
+  - Start: September  
+  - CIP: 47.0615  
+  - Code: 0687  
+  - Link: https://www.conestogac.on.ca/fulltime/motive-power-technician-heavy-duty-equipment
+- **동력장치 기술 - 중장비 정비 / Motive Power Techniques - Heavy Duty Equipment Repair**  
+  - Credential: Ontario College Certificate  
+  - Start: September  
+  - CIP: 47.0615  
+  - Code: 1506  
+  - Link: https://www.conestogac.on.ca/fulltime/motive-power-techniques-heavy-duty-equipment-repair
 
 ### 보건 / Health care (14)
 - **아동 정신 건강 서비스 / Children's Mental Health Services**  
