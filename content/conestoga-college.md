@@ -63,57 +63,12 @@ Conestoga College Institute of Technology and Advanced Learning은 온타리오�
 - **주요 생활권:** Waterloo Region (Kitchener / Waterloo / Cambridge)
 - **대표 성격:** 공립 컬리지, 실무형·취업형·폴리테크닉 중심
 
-### 주요 캠퍼스 및 교육 거점
-- **Doon (Kitchener)** — 메인 캠퍼스
-- **Waterloo**
-- **Cambridge – Fountain Street**
-- **Cambridge – Reuter Dr. / Skilled Trades**
-- **Guelph**
-- **Brantford**
-- **Milton**
-- **Stratford**
-- **Ingersoll Skills Training Centre**
-
-### 주소/캠퍼스 확인용 공식 링크
+### 캠퍼스 / 주소 확인 링크
 - **캠퍼스 안내:** https://www.conestogac.on.ca/about/campuses-and-locations
 - **전체 프로그램 인덱스:** https://www.conestogac.on.ca/fulltime
 
 ---
 
-## 위치와 캠퍼스
-주요 캠퍼스 및 교육 거점:
-- Kitchener - Doon
-- Waterloo
-- Cambridge - Fountain Street
-- Cambridge - Reuter Dr. / Skilled Trades
-- Guelph
-- Brantford
-- Milton
-- Stratford
-- Ingersoll Skills Training Centre
-
----
-
-## 주요 프로그램군
-Conestoga는 특정 한두 개 전공보다, **실무형 프로그램 포트폴리오가 넓다**는 점이 강점이다.
-
-### 대표적으로 보기 좋은 분야
-- IT / Computer Science
-- Business / Supply Chain / Operations
-- Engineering / Engineering Technology
-- Skilled Trades
-- Health / Community Services
-
-### 상담 시 설명하기 좋은 대표 예시
-- Computer Programming and Analysis
-- Bachelor of Computer Science (Honours)
-- Business Administration – Supply Chain and Operations Management
-- Bachelor of Business Administration (Honours) – International Business Management
-- Energy Systems Engineering Technology – Electrical
-- Bachelor of Engineering – Power Systems Engineering
-- Practical Nursing *(국제학생 direct entry 제한 여부 별도 확인 필요)*
-
----
 
 ## 입학 요건
 ### Diploma / Certificate
