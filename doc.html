@@ -114,47 +114,45 @@
   </div>
 
   <script>
-    (function() {
-      const overlay = document.getElementById('gate-overlay');
-      const protectedContent = document.getElementById('protected-content');
-      const input = document.getElementById('gate-input');
-      const submit = document.getElementById('gate-submit');
-      const error = document.getElementById('gate-error');
-      let expectedToken = '';
-      let storageKey = '';
+    const overlay = document.getElementById('gate-overlay');
+    const protectedContent = document.getElementById('protected-content');
+    const input = document.getElementById('gate-input');
+    const submit = document.getElementById('gate-submit');
+    const error = document.getElementById('gate-error');
+    let expectedToken = '';
+    let storageKey = '';
 
-      function unlock() {
-        overlay.style.display = 'none';
-        protectedContent.classList.add('unlocked');
-      }
+    function unlock() {
+      overlay.style.display = 'none';
+      protectedContent.classList.add('unlocked');
+    }
 
-      function lockWithToken(token, slug) {
-        expectedToken = token || '';
-        storageKey = 'colly_library_token_' + slug;
-        if (localStorage.getItem(storageKey) === 'ok') {
-          unlock();
-          return;
-        }
-        overlay.style.display = 'flex';
-        protectedContent.classList.remove('unlocked');
-        input.focus();
-      }
-
-      function openPublic() {
+    function lockWithToken(token, slug) {
+      expectedToken = token || '';
+      storageKey = 'colly_library_token_' + slug;
+      if (localStorage.getItem(storageKey) === 'ok') {
         unlock();
+        return;
       }
+      overlay.style.display = 'flex';
+      protectedContent.classList.remove('unlocked');
+      input.focus();
+    }
 
-      function tryUnlock() {
-        if (input.value.trim() === String(expectedToken).trim()) {
-          localStorage.setItem(storageKey, 'ok');
-          unlock();
-        } else {
-          error.textContent = '토큰이 맞지 않아. 다시 확인해줘.';
-        }
+    function openPublic() {
+      unlock();
+    }
+
+    function tryUnlock() {
+      if (input.value.trim() === String(expectedToken).trim()) {
+        localStorage.setItem(storageKey, 'ok');
+        unlock();
+      } else {
+        error.textContent = '토큰이 맞지 않아. 다시 확인해줘.';
       }
-      submit.addEventListener('click', tryUnlock);
-      input.addEventListener('keydown', function(e) { if (e.key === 'Enter') tryUnlock(); });
-    })();
+    }
+    submit.addEventListener('click', tryUnlock);
+    input.addEventListener('keydown', function(e) { if (e.key === 'Enter') tryUnlock(); });
 
     function parseFrontmatter(text) {
       const match = text.match(/^---\n([\s\S]*?)\n---/);
