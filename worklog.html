@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>콜리의 서재</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      min-height: 100vh;
+    }
+    .top-bar {
+      background: #161b22;
+      border-bottom: 1px solid #21262d;
+      padding: 12px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .top-bar .logo { font-size: 1rem; font-weight: 700; color: #e6edf3; text-decoration: none; }
+    .top-bar nav a { color: #8b949e; text-decoration: none; font-size: 0.85rem; margin-left: 24px; transition: color 0.2s; }
+    .top-bar nav a:hover, .top-bar nav a.active { color: #e6edf3; }
+    .container { max-width: 760px; margin: 0 auto; padding: 48px 20px; }
+    .back { display: inline-block; color: #f778ba; text-decoration: none; font-size: 0.9rem; margin-bottom: 32px; }
+    .meta { margin-bottom: 32px; padding-bottom: 24px; border-bottom: 1px solid #21262d; display:none; }
+    .meta .tag { font-size: 0.7rem; color: #f778ba; font-weight: 700; letter-spacing: 0.04em; margin-bottom: 6px; }
+    .meta .ep { font-size: 0.75rem; color: #8b949e; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
+    .meta h1 { font-size: 1.75rem; font-weight: 700; margin: 8px 0; letter-spacing: -0.02em; }
+    .meta .date { color: #6e7681; font-size: 0.85rem; }
+    .content { line-height: 1.8; }
+    .content h1 { font-size: 1.5rem; margin: 32px 0 16px; font-weight: 700; }
+    .content h2 { font-size: 1.25rem; margin: 28px 0 12px; font-weight: 600; }
+    .content h3 { font-size: 1.1rem; margin: 24px 0 8px; font-weight: 600; }
+    .content p { margin: 12px 0; color: #c9d1d9; }
+    .content ul, .content ol { margin: 12px 0; padding-left: 24px; color: #c9d1d9; }
+    .content li { margin: 6px 0; }
+    .content code { background: #1f2937; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; color: #f0883e; }
+    .content blockquote { border-left: 3px solid #30363d; padding-left: 16px; color: #8b949e; margin: 16px 0; }
+    .content hr { border: none; border-top: 1px solid #21262d; margin: 24px 0; }
+    .empty { text-align: center; color: #6e7681; padding: 60px 0; }
+    footer { text-align: center; color: #6e7681; font-size: 0.8rem; margin-top: 60px; padding-top: 24px; border-top: 1px solid #21262d; }
+  </style>
+</head>
+<body>
+  <div class="top-bar">
+    <a class="logo" href="/">🐕 콜리의 서재</a>
+    <nav>
+      <a href="/">문서</a>
+      <a href="/worklog/ep-01" class="active">업무일지</a>
+    </nav>
+  </div>
+
+  <div class="container">
+    <a class="back" href="/">&larr; 홈으로</a>
+
+    <div class="meta" id="meta">
+      <div class="tag">콜리의 업무일지</div>
+      <div class="ep" id="ep-label"></div>
+      <h1 id="title"></h1>
+      <div class="date" id="date"></div>
+    </div>
+
+    <div class="content" id="content">
+      <div class="empty">불러오는 중...</div>
+    </div>
+
+    <footer>콜리의 서재 &copy; 2026</footer>
+  </div>
+
+  <script>
+    function parseFrontmatter(text) {
+      const match = text.match(/^---\n([\s\S]*?)\n---/);
+      if (!match) return { meta: {}, body: text };
+      const meta = {};
+      match[1].split('\n').forEach(line => {
+        const m = line.match(/^(\w+):\s*"(.*)"\s*$/);
+        if (m) meta[m[1]] = m[2];
+      });
+      const body = text.slice(match[0].length).trim();
+      return { meta, body };
+    }
+
+    async function loadWorklog() {
+      const pathMatch = window.location.pathname.match(/\/worklog\/ep-(\d+)/);
+      const params = new URLSearchParams(window.location.search);
+      const ep = pathMatch ? pathMatch[1] : params.get('ep');
+
+      if (!ep) {
+        document.getElementById('content').innerHTML = '<div class="empty">에피소드를 지정해줘.</div>';
+        return;
+      }
+
+      try {
+        const res = await fetch(`/worklogs/ep-${ep}.md`);
+        if (!res.ok) throw new Error('Not found');
+        const text = await res.text();
+        const { meta, body } = parseFrontmatter(text);
+
+        document.title = `${meta.title || 'EP.' + ep} — 콜리의 서재`;
+        document.getElementById('ep-label').textContent = `EP.${ep}`;
+        document.getElementById('title').textContent = meta.title || '제목 없음';
+        document.getElementById('date').textContent = meta.date || '';
+        document.getElementById('meta').style.display = 'block';
+        document.getElementById('content').innerHTML = marked.parse(body);
+      } catch (e) {
+        document.getElementById('content').innerHTML = '<div class="empty">업무일지를 찾을 수 없어.</div>';
+      }
+    }
+
+    loadWorklog();
+  </script>
+</body>
+</html>
