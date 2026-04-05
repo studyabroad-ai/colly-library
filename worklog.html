@@ -138,7 +138,7 @@
       }
 
       function tryUnlock() {
-        if (input.value === expectedToken) {
+        if (input.value.trim() === String(expectedToken).trim()) {
           localStorage.setItem(storageKey, 'ok');
           unlock();
         } else {
