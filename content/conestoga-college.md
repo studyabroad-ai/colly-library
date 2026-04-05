@@ -275,11 +275,9 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 
 ---
 
-### 1. STEM / 과학·기술·공학·수학 (42)
+### 1. STEM / 과학·기술·공학·수학 (40)
 - 인공지능 및 기계 학습 응용 (코업 옵션) / Applied Artificial Intelligence & Machine Learning — Grad Cert — Sep, Jan, May — Code: 1557
 - 건축 - 건설 엔지니어링 기술 (코업 옵션) / Architecture - Construction Engineering Technology — Adv Diploma — Sep — Code: 0025
-- 생명 공학 기술자 / Biotechnology Technician — Diploma — Sep, May — Code: 1164
-- 생명공학 기술자 패스트트랙 / Biotechnology Technician Fast Track — Diploma — Sep, May — Code: 11641
 - 토목공학 기술자 (코업 옵션) / Civil Engineering Technician — Diploma — Sep — Code: 1629
 - 토목공학 테크놀로지 (코업 옵션) / Civil Engineering Technology — Adv Diploma — Sep — Code: 0024
 - 컴퓨터 애플리케이션 개발 (코업 옵션) / Computer Applications Development — Grad Cert — Sep, Jan, May — Code: 0066
@@ -324,24 +322,27 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 - 유아교육 패스트트랙 / Early Childhood Education Fast Track — Diploma — Sep — Code: 00031
 - 교육 지원 / Educational Support — Diploma — Sep — Code: 1332
 
-### 3. Healthcare / 보건 (17)
-- 아동 정신 건강 서비스 / Children's Mental Health Services — Grad Cert — Sep — Code: 1617
-- 커뮤니티 약국 보조 / Community Pharmacy Assistant — Certificate — Sep, Jan, May — Code: 1499
-- 국제 교육 이수 간호사를 위한 향상 실습 / Enhanced Practice for Internationally Educated Nurses — Grad Cert — Sep, Jan, May — Code: 1513
-- 헬스케어 프로젝트 리더십 및 관리 / Healthcare Project Leadership and Management — Grad Cert — Sep, Jan, May — Code: 1638
-- 보청기 전문가 / Hearing Instrument Specialist — Diploma — Sep — Code: 1176
-- 휴먼 서비스 기초 / Human Services Foundation — Certificate — Sep, Jan, May — Code: 1053
-- 감염 예방 및 관리 / Infection Prevention and Control — Grad Cert — Sep, May — Code: 1621
-- 지역사회 서비스 관리 / Management in Community Services — Grad Cert — Jan, May — Code: 1276
-- 의료검사실 보조/기술자 / Medical Laboratory Assistant/Technician — Certificate — Jan, May — Code: 1620
-- 정신건강, 중독 및 물질 사용 / Mental Health, Addiction, and Substance Use — Grad Cert — Sep, Jan, May — Code: 1401
-- 작업치료사 보조 및 물리치료사 보조 / Occupational Therapist Assistant & Physiotherapist Assistant — Diploma — Sep — Code: 1111
-- 퍼스널 서포트 워커 - 국제과정 / Personal Support Worker - International — Certificate — Sep, Jan, May — Code: 11651
-- 약무 기술자 / Pharmacy Technician — Diploma — Sep, Jan — Code: 1501
-- 실무 간호 / Practical Nursing — Diploma — Sep, Jan — Code: 1077
-- 보건계열 진학 예비과정 - 고급 디플로마 및 학위 / Pre-Health Sciences Pathway to Advanced Diplomas and Degrees — Certificate — Sep — Code: 1214
-- 보건계열 진학 예비과정 - 수료증 및 디플로마 / Pre-Health Sciences Pathway to Certificates and Diplomas — Certificate — Sep, Jan — Code: 1306
-- 사회복지 실무자 / Social Service Worker — Diploma — Sep, Jan — Code: 0009
+### 3. Healthcare / 보건 (20)
+- 생명 공학 기술자 / Biotechnology Technician — Diploma — Sep, May — Code: 1164 — CIP: 41.0101
+- 생명공학 기술자 패스트트랙 / Biotechnology Technician Fast Track — Diploma — Sep, May — Code: 11641 — CIP: 41.0101
+- 아동 정신 건강 서비스 / Children's Mental Health Services — Grad Cert — Sep — Code: 1617 — CIP: 51.1510
+- 커뮤니티 약국 보조 / Community Pharmacy Assistant — Certificate — Sep, Jan, May — Code: 1499 — CIP: 51.0805
+- 국제 교육 이수 간호사를 위한 향상 실습 / Enhanced Practice for Internationally Educated Nurses — Grad Cert — Sep, Jan, May — Code: 1513 — CIP: 51.3801
+- 헬스케어 프로젝트 리더십 및 관리 / Healthcare Project Leadership and Management — Grad Cert — Sep, Jan, May — Code: 1638 — CIP: 51.0704
+- 보청기 전문가 / Hearing Instrument Specialist — Diploma — Sep — Code: 1176 — CIP: 51.0918
+- 휴먼 서비스 기초 / Human Services Foundation — Certificate — Sep, Jan, May — Code: 1053 — CIP: 44.0000
+- 지역사회 서비스 관리 / Management in Community Services — Grad Cert — Jan, May — Code: 1276 — CIP: 19.0707
+- 의료검사실 보조/기술자 / Medical Laboratory Assistant/Technician — Certificate — Jan, May — Code: 1620 — CIP: 51.0802
+- 정신건강, 중독 및 물질 사용 / Mental Health, Addiction, and Substance Use — Grad Cert — Sep, Jan, May — Code: 1401 — CIP: 51.1599
+- 작업치료사 보조 및 물리치료사 보조 / Occupational Therapist Assistant & Physiotherapist Assistant — Diploma — Sep — Code: 1111 — CIP: 51.0817
+- 퍼스널 서포트 워커 - 국제과정 / Personal Support Worker - International — Certificate — Sep, Jan, May — Code: 11651 — CIP: 51.2602
+- 약무 기술자 / Pharmacy Technician — Diploma — Sep, Jan — Code: 1501 — CIP: 51.0805
+- 실무 간호 / Practical Nursing — Diploma — Sep, Jan — Code: 1077 — CIP: 51.3901
+- 보건계열 진학 예비과정 - 고급 디플로마 및 학위 / Pre-Health Sciences Pathway to Advanced Diplomas and Degrees — Certificate — Sep — Code: 1214 — CIP: 51.1199
+- 보건계열 진학 예비과정 - 수료증 및 디플로마 / Pre-Health Sciences Pathway to Certificates and Diplomas — Certificate — Sep, Jan — Code: 1306 — CIP: 51.1199
+- 사회복지 실무자 / Social Service Worker — Diploma — Sep, Jan — Code: 0009 — CIP: 44.0000
+- 수의 보조 / Veterinary Assistant — Certificate — Sep, Jan, May — Code: 1548 — CIP: 01.8301
+- 수의 기술자 / Veterinary Technician — Diploma — Sep, Jan, May — Code: 1547 — CIP: 01.8301
 
 ### 4. Trade / 기술직 (21)
 - 고급 CNC 제조 / Advanced CNC Manufacturing — Grad Cert — Sep, Jan, May — Code: 1581
@@ -366,11 +367,9 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 - 목공 기술자 / Woodworking Technician — Diploma — Sep — Code: 0054
 - 목공 테크놀로지 (코업 옵션) / Woodworking Technology — Adv Diploma — Sep — Code: 0804
 
-### 5. Agriculture and agri-food / 농업·식품 (4)
+### 5. Agriculture and agri-food / 농업·식품 (2)
 - 농업 비즈니스 관리 / Agri-Business Management — Grad Cert — Sep, Jan, May — Code: 1588
 - 조리 기술 (코업) / Culinary Skills (Co-op) — Certificate — Sep, Jan — Code: 1025C
-- 수의 보조 / Veterinary Assistant — Certificate — Sep, Jan, May — Code: 1548
-- 수의 기술자 / Veterinary Technician — Diploma — Sep, Jan, May — Code: 1547
 
 ### 6. Transport / 운송 (4)
 - 비즈니스 - 상업용 트럭 운송을 위한 공급망 및 운영 관리 / Business - Supply Chain and Operations for Commercial Trucking — Diploma — Sep, Jan, May — Code: 1540
