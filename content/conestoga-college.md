@@ -66,7 +66,7 @@ sources:
 
 | 항목 | 내용 |
 |------|------|
-| DLI 번호 | 확인 필요 |
+| DLI 번호 | O19376158572 |
 | 국제학생 공식 페이지 | https://www.conestogac.on.ca/international |
 
 ### 위치 / 생활권
@@ -204,7 +204,7 @@ Conestoga의 실무형 IT 경쟁력을 가장 선명하게 보여주는 학위 �
 
 ## 5) 기숙사 / 주거
 
-Conestoga는 공식 student housing을 운영하며, 전기·수도·난방·인터넷이 포함된다. 단, **기숙사 비용 및 meal plan(식사 제공) 여부는 추가 확인이 필요**하다.
+Conestoga는 공식 student housing을 운영하며, 전기·수도·난방·인터넷이 포함된다. **Meal plan(식사 제공)은 없으며**, 식비는 별도로 준비해야 한다.
 
 - 링크: https://www.conestogac.on.ca/student-housing/conestoga-housing
 
@@ -343,7 +343,7 @@ Conestoga는 공식 student housing을 운영하며, 전기·수도·난방·인
 | 한국어 명칭 | 영문 명칭 | 과정 유형 | Intake | 코드 | CIP |
 |------------|---------|----------|--------|------|-----|
 | 유아교육 | Early Childhood Education | Diploma | Sep, Jan, May | 0003 | 19.0709 |
-| 유아교육 패스트트랙 | Early Childhood Education Fast Track (ECE) | Diploma | Sep | 00031 ⚠️확인필요 | 19.0709 |
+| 유아교육 패스트트랙 | Early Childhood Education Fast Track (ECE) | Diploma | Sep | 00031 | 19.0709 |
 | 교육 지원 | Educational Support | Diploma | Sep | 1332 | 13.1501 |
 
 ---
@@ -353,7 +353,7 @@ Conestoga는 공식 student housing을 운영하며, 전기·수도·난방·인
 | 한국어 명칭 | 영문 명칭 | 과정 유형 | Intake | 코드 | CIP |
 |------------|---------|----------|--------|------|-----|
 | 생명공학 기술자 | Biotechnology Technician | Diploma | Sep, May | 1164 | 41.0101 |
-| 생명공학 기술자 패스트트랙 | Biotechnology Technician Fast Track | Diploma | Sep, May | 11641 ⚠️확인필요 | 41.0101 |
+| 생명공학 기술자 패스트트랙 | Biotechnology Technician Fast Track | Diploma | Sep, May | 11641 | 41.0101 |
 | 아동 정신건강 서비스 | Children's Mental Health Services | Grad Cert | Sep | 1617 | 51.1510 |
 | 커뮤니티 약국 보조 | Community Pharmacy Assistant | Certificate | Sep, Jan, May | 1499 | 51.0805 |
 | 국제 교육 이수 간호사를 위한 향상 실습 (EPIEN) | Enhanced Practice for Internationally Educated Nurses | Grad Cert | Sep, Jan, May | 1513 | 51.3801 |
@@ -364,7 +364,7 @@ Conestoga는 공식 student housing을 운영하며, 전기·수도·난방·인
 | 의료검사실 보조/기술자 | Medical Laboratory Assistant/Technician | Certificate | Jan, May | 1620 | 51.0802 |
 | 정신건강, 중독 및 물질 사용 | Mental Health, Addiction, and Substance Use | Grad Cert | Sep, Jan, May | 1401 | 51.1599 |
 | 작업치료사 보조 및 물리치료사 보조 | Occupational Therapist Assistant & Physiotherapist Assistant | Diploma | Sep | 1111 | 51.0817 |
-| 퍼스널 서포트 워커 - 국제과정 | Personal Support Worker - International | Certificate | Sep, Jan, May | 11651 ⚠️확인필요 | 51.2602 |
+| 퍼스널 서포트 워커 - 국제과정 | Personal Support Worker - International | Certificate | Sep, Jan, May | 11651 | 51.2602 |
 | 약무 기술자 | Pharmacy Technician | Diploma | Sep, Jan | 1501 | 51.0805 |
 | 실무 간호 | Practical Nursing | Diploma | Sep, Jan | 1077 | 51.3901 |
 | 보건계열 진학 예비과정 - 고급 디플로마 및 학위 | Pre-Health Sciences Pathway to Advanced Diplomas and Degrees | Certificate | Sep | 1214 | 51.1199 |
