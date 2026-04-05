@@ -166,19 +166,19 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 41.0101  
   - Code: 1164  
   - Link: https://www.conestogac.on.ca/fulltime/biotechnology-technician
-- **Biotechnology Technician Fast Track**  
+- **생명공학 기술자 패스트트랙 / Biotechnology Technician Fast Track**  
   - Credential: Ontario College Diploma  
   - Start: September, May  
   - CIP: 41.0101  
   - Code: 11641  
   - Link: https://www.conestogac.on.ca/fulltime/biotechnology-technician-fast-track
-- **Civil Engineering Technician (Optional Co-op)**  
+- **토목공학 기술자 (코업 옵션) / Civil Engineering Technician (Optional Co-op)**  
   - Credential: Ontario College Diploma  
   - Start: September  
   - CIP: 15.0201  
   - Code: 1629  
   - Link: https://www.conestogac.on.ca/fulltime/civil-engineering-technician
-- **Civil Engineering Technology (Optional Co-op)**  
+- **토목공학 테크놀로지 (코업 옵션) / Civil Engineering Technology (Optional Co-op)**  
   - Credential: Ontario College Advanced Diploma  
   - Start: September  
   - CIP: 15.0201  
@@ -232,37 +232,37 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 11.0501  
   - Code: 1493  
   - Link: https://www.conestogac.on.ca/fulltime/data-processing-and-reporting
-- **Electrical Engineering Technician**  
+- **전기공학 기술자 / Electrical Engineering Technician**  
   - Credential: Ontario College Diploma  
   - Start: September  
   - CIP: 15.0303  
   - Code: 0071  
   - Link: https://www.conestogac.on.ca/fulltime/electrical-engineering-technician
-- **Electrical Engineering Technician - Industrial (Optional Co-op)**  
+- **전기공학 기술자 - 산업 분야 (코업 옵션) / Electrical Engineering Technician - Industrial (Optional Co-op)**  
   - Credential: Ontario College Diploma  
   - Start: September, January  
   - CIP: 15.0303  
   - Code: 1154  
   - Link: https://www.conestogac.on.ca/fulltime/electrical-engineering-technician-industrial
-- **Electrical Engineering Technology (Optional Co-op)**  
+- **전기공학 테크놀로지 (코업 옵션) / Electrical Engineering Technology (Optional Co-op)**  
   - Credential: Ontario College Advanced Diploma  
   - Start: September  
   - CIP: 15.0303  
   - Code: 0928  
   - Link: https://www.conestogac.on.ca/fulltime/electrical-engineering-technology
-- **Electro Mechanical and Automation Maintenance (Optional Co-op)**  
+- **전기기계 및 자동화 유지보수 (코업 옵션) / Electro Mechanical and Automation Maintenance (Optional Co-op)**  
   - Credential: Ontario College Diploma  
   - Start: September, January  
   - CIP: 15.0403  
   - Code: 1318  
   - Link: https://www.conestogac.on.ca/fulltime/electro-mechanical-and-automation-maintenance
-- **Electronics Engineering Technician**  
+- **전자공학 기술자 / Electronics Engineering Technician**  
   - Credential: Ontario College Diploma  
   - Start: September  
   - CIP: 15.0303  
   - Code: 0064  
   - Link: https://www.conestogac.on.ca/fulltime/electronics-engineering-technician
-- **Electronics Engineering Technology (Optional Co-op)**  
+- **전자공학 테크놀로지 (코업 옵션) / Electronics Engineering Technology (Optional Co-op)**  
   - Credential: Ontario College Advanced Diploma  
   - Start: September  
   - CIP: 15.0303  
@@ -274,7 +274,7 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 15.0501  
   - Code: 0029  
   - Link: https://www.conestogac.on.ca/fulltime/energy-systems-engineering-technology-electrical
-- **Environmental Engineering Applications (Optional Co-op)**  
+- **환경공학 응용 (코업 옵션) / Environmental Engineering Applications (Optional Co-op)**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September  
   - CIP: 15.0507  
@@ -390,7 +390,7 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - Link: https://www.conestogac.on.ca/fulltime/welding-engineering-technology-inspection
 
 ### 교육 / Education (1)
-- **Educational Support**  
+- **교육 지원 / Educational Support**  
   - Credential: Ontario College Diploma  
   - Start: September  
   - CIP: 13.1501  
@@ -526,19 +526,19 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 12.0500  
   - Code: 1025C  
   - Link: https://www.conestogac.on.ca/fulltime/culinary-skills-co-op
-- **Digital Forensics in Cybersecurity**  
+- **사이버보안 디지털 포렌식 / Digital Forensics in Cybersecurity**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 43.0403  
   - Code: 1662  
   - Link: https://www.conestogac.on.ca/fulltime/digital-forensics-in-cybersecurity
-- **Early Childhood Education**  
+- **유아교육 / Early Childhood Education**  
   - Credential: Ontario College Diploma  
   - Start: September, January, May  
   - CIP: 19.0709  
   - Code: 0003  
   - Link: https://www.conestogac.on.ca/fulltime/early-childhood-education
-- **Early Childhood Education Fast Track (ECE)**  
+- **유아교육 패스트트랙 (ECE) / Early Childhood Education Fast Track (ECE)**  
   - Credential: Ontario College Diploma  
   - Start: September  
   - CIP: 19.0709  
@@ -626,7 +626,7 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 51.3801  
   - Code: 1513  
   - Link: https://www.conestogac.on.ca/fulltime/enhanced-practice-for-internationally-educated-nurses
-- **Healthcare Project Leadership and Management**  
+- **헬스케어 프로젝트 리더십 및 관리 / Healthcare Project Leadership and Management**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 51.0704  
@@ -840,19 +840,19 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 51.2202  
   - Code: 1386C  
   - Link: https://www.conestogac.on.ca/fulltime/bachelor-of-environmental-public-health-honours
-- **Bachelor of Human Resource Management**  
+- **인적자원관리 학사 / Bachelor of Human Resource Management**  
   - Credential: Degree  
   - Start: September  
   - CIP: 52.1001  
   - Code: 1624C  
   - Link: https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management
-- **Bachelor of Interior Design (Honours)**  
+- **실내디자인 학사 (우등 학사) / Bachelor of Interior Design (Honours)**  
   - Credential: Degree  
   - Start: August  
   - CIP: 50.0408  
   - Code: 1068C  
   - Link: https://www.conestogac.on.ca/fulltime/bachelor-of-interior-design-honours
-- **Bachelor of Risk, Threat, and Crime Analysis (Honours)**  
+- **위험·위협·범죄분석 학사 (우등 학사) / Bachelor of Risk, Threat, and Crime Analysis (Honours)**  
   - Credential: Degree  
   - Start: September  
   - CIP: 43.0403  
