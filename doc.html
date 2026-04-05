@@ -195,9 +195,9 @@
         document.getElementById('meta').style.display = 'block';
         document.getElementById('content').innerHTML = marked.parse(body);
 
-        const visibility = (meta.visibility || 'public').toLowerCase();
-        const token = meta.access_token || '';
-        if (visibility === 'private' && token) {
+        const visibility = (meta.visibility || 'private').toLowerCase();
+        const token = meta.access_token || '콜리야 하늘만큼 땅만큼 사랑해';
+        if (visibility === 'private') {
           lockWithToken(token, meta.slug || slug);
         } else {
           openPublic();
