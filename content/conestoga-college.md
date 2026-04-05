@@ -387,27 +387,27 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 
 > 2025-03-11부터 bachelor's degree 프로그램은 field of study requirement가 면제된다. 즉, 위 6개 카테고리와 무관하게 PGWP 신청이 가능하다. 단, 다른 PGWP 요건(DLI, 프로그램 기간 등)은 충족해야 하며, 최종 판단은 IRCC.
 
-- 애니메이션 학사 / Bachelor of Animation — Sep — Code: 1671C
-- 생명공학 응용 학사 (우등) / Bachelor of Applied Biotechnology (Honours) — Sep — Code: 1560C
-- 응용기술 학사 (우등) - 건축 프로젝트 및 시설 관리 / Bachelor of Applied Technology (Honours) - Architecture - Project and Facility Management — Aug — Code: 1099C
-- 경영학 학사 (우등) - 회계, 감사 및 IT / Bachelor of Business Administration (Honours) - Accounting, Audit and IT — Sep, Jan — Code: 1241C
-- 경영학 학사 (우등) - 국제경영 / Bachelor of Business Administration (Honours) - International Business Management — Sep, Jan — Code: 1172C
-- 지역사회 및 형사사법 학사 (우등) / Bachelor of Community and Criminal Justice (Honours) — Sep — Code: 1240C
-- 컴퓨터 사이언스 학사 / Bachelor of Computer Science — Sep, Jan — Code: 1635C
-- 컴퓨터 사이언스 학사 (우등) / Bachelor of Computer Science (Honours) — Sep, Jan — Code: 1514C
-- 데이터 분석 학사 / Bachelor of Data Analytics — Sep — Code: 1664C
-- 데이터사이언스 및 AI 학사 (우등) / Bachelor of Data Science and Artificial Intelligence (Honours) — Sep — Code: 1682C
-- 디자인 학사 (우등) / Bachelor of Design (Honours) — Sep — Code: 1336C
-- 유아교육 프로그램 개발 학사 (우등) / Bachelor of Early Learning Program Development (Honours) — Sep — Code: 1355C
-- 공학 학사 - 건축 시스템 공학 / Bachelor of Engineering - Building Systems Engineering — Aug — Code: 1425C
-- 공학 학사 - 전자 시스템 공학 / Bachelor of Engineering - Electronic Systems Engineering — Aug — Code: 1094C
-- 공학 학사 - 기계 시스템 공학 / Bachelor of Engineering - Mechanical Systems Engineering — Aug — Code: 1066C
-- 공학 학사 - 전력 시스템 공학 / Bachelor of Engineering - Power Systems Engineering — Aug — Code: 1458C
-- 공학 학사 - 지속 가능한 디자인 공학 / Bachelor of Engineering - Sustainable Design Engineering — Aug — Code: 1626C
-- 환경 공중 보건 학사 (우등) / Bachelor of Environmental Public Health (Honours) — Sep — Code: 1386C
-- 인적자원관리 학사 / Bachelor of Human Resource Management — Sep — Code: 1624C
-- 실내디자인 학사 (우등) / Bachelor of Interior Design (Honours) — Aug — Code: 1068C
-- 위험·위협·범죄분석 학사 (우등) / Bachelor of Risk, Threat, and Crime Analysis (Honours) — Sep — Code: 1657C
+- 애니메이션 학사 / Bachelor of Animation — Sep — Code: 1671C — CIP: 10.0304
+- 생명공학 응용 학사 (우등) / Bachelor of Applied Biotechnology (Honours) — Sep — Code: 1560C — CIP: 26.1201
+- 응용기술 학사 (우등) - 건축 프로젝트 및 시설 관리 / Bachelor of Applied Technology (Honours) - Architecture - Project and Facility Management — Aug — Code: 1099C — CIP: 15.0101
+- 경영학 학사 (우등) - 회계, 감사 및 IT / Bachelor of Business Administration (Honours) - Accounting, Audit and Information Technology — Sep, Jan — Code: 1241C — CIP: 30.1601
+- 경영학 학사 (우등) - 국제경영 / Bachelor of Business Administration (Honours) - International Business Management — Sep, Jan — Code: 1172C — CIP: 52.1101
+- 지역사회 및 형사사법 학사 (우등) / Bachelor of Community and Criminal Justice (Honours) — Sep — Code: 1240C — CIP: 43.0104
+- 컴퓨터 사이언스 학사 / Bachelor of Computer Science — Sep, Jan — Code: 1635C — CIP: 11.0701
+- 컴퓨터 사이언스 학사 (우등) / Bachelor of Computer Science (Honours) — Sep, Jan — Code: 1514C — CIP: 11.0701
+- 데이터 분석 학사 / Bachelor of Data Analytics — Sep — Code: 1664C — CIP: 30.7101
+- 데이터사이언스 및 AI 학사 (우등) / Bachelor of Data Science and Artificial Intelligence (Honours) — Sep — Code: 1682C — CIP: 11.0101
+- 디자인 학사 (우등) / Bachelor of Design (Honours) — Sep — Code: 1336C — CIP: 50.0409
+- 유아교육 프로그램 개발 학사 (우등) / Bachelor of Early Learning Program Development (Honours) — Sep — Code: 1355C — CIP: 13.1210
+- 공학 학사 - 건축 시스템 공학 / Bachelor of Engineering - Building Systems Engineering — Aug — Code: 1425C — CIP: 14.1401
+- 공학 학사 - 전자 시스템 공학 / Bachelor of Engineering - Electronic Systems Engineering — Aug — Code: 1094C — CIP: 14.1099
+- 공학 학사 - 기계 시스템 공학 / Bachelor of Engineering - Mechanical Systems Engineering — Aug — Code: 1066C — CIP: 14.1901
+- 공학 학사 - 전력 시스템 공학 / Bachelor of Engineering - Power Systems Engineering — Aug — Code: 1458C — CIP: 14.1001
+- 공학 학사 - 지속 가능한 디자인 공학 / Bachelor of Engineering - Sustainable Design Engineering — Aug — Code: 1626C — CIP: 14.4801
+- 환경 공중 보건 학사 (우등) / Bachelor of Environmental Public Health (Honours) — Sep — Code: 1386C — CIP: 51.2202
+- 인적자원관리 학사 / Bachelor of Human Resource Management — Sep — Code: 1624C — CIP: 52.1001
+- 실내디자인 학사 (우등) / Bachelor of Interior Design (Honours) — Aug — Code: 1068C — CIP: 50.0408
+- 위험·위협·범죄분석 학사 (우등) / Bachelor of Risk, Threat, and Crime Analysis (Honours) — Sep — Code: 1657C — CIP: 43.0403
 
 > ⚠️ 위 목록은 2026-04-06 기준 정리이며, IRCC는 eligible CIP codes를 수시로 업데이트한다. 상담 시에는 반드시 [Conestoga 공식 PGWP 페이지](https://www.conestogac.on.ca/international/apply-to-conestoga/pgwp-aligned-programs) 및 [IRCC eligible CIP codes](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study/currently-eligible.html)를 재확인할 것.
 
