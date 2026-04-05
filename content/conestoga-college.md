@@ -264,13 +264,18 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 
 ---
 
-## 11) PGWP 가능 학과 목록 (공식 Managed field 기준 전체)
+## 11) PGWP 가능 학과 목록
 
-아래는 **Conestoga 공식 PGWP-aligned programs 페이지에서 Managed field(필터) 기준으로 정리한 전체 목록**이다. 학과명은 **한글 + 영어 병기**, 최종 판단은 항상 IRCC 기준으로 재확인 필요.
+아래는 **Conestoga 공식 PGWP-aligned programs 페이지** 기준으로, **IRCC가 정한 6개 카테고리 + 학사과정(field of study 면제)**으로 정리한 목록이다.
 
 - **공식 PGWP 기준 페이지:** https://www.conestogac.on.ca/international/apply-to-conestoga/pgwp-aligned-programs
+- **IRCC 공식 eligible CIP codes:** https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study/currently-eligible.html
 
-### STEM / 과학·기술·공학·수학 (40)
+> ⚠️ **핵심 원칙:** 비학위(diploma/certificate/graduate certificate) 프로그램은 반드시 아래 6개 카테고리 중 하나에 해당해야 PGWP 발급이 가능하다. 6개 카테고리에 해당하지 않으면 PGWP 대상이 아니다. Bachelor's degree는 field of study 요건이 면제되어 별도 분류한다. 최종 판단은 항상 IRCC.
+
+---
+
+### 1. STEM / 과학·기술·공학·수학 (42)
 - 인공지능 및 기계 학습 응용 (코업 옵션) / Applied Artificial Intelligence & Machine Learning — Grad Cert — Sep, Jan, May — Code: 1557
 - 건축 - 건설 엔지니어링 기술 (코업 옵션) / Architecture - Construction Engineering Technology — Adv Diploma — Sep — Code: 0025
 - 생명 공학 기술자 / Biotechnology Technician — Diploma — Sep, May — Code: 1164
@@ -284,6 +289,7 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 - 컴퓨터 프로그래밍 및 분석 (코업 옵션) / Computer Programming and Analysis — Adv Diploma — Sep, Jan, May — Code: 0057
 - 컴퓨터 시스템 기술자 - IT 인프라 및 서비스 (코업 옵션) / Computer Systems Technician - IT Infrastructure and Services — Diploma — Sep, Jan — Code: 1097
 - 사이버 보안 대응 계획 (코업 옵션) / Cybersecurity Response Planning — Grad Cert — Sep, Jan, May — Code: 1580
+- 사이버보안 디지털 포렌식 / Digital Forensics in Cybersecurity — Grad Cert — Sep, Jan, May — Code: 1662
 - 데이터 처리 및 보고 / Data Processing and Reporting — Certificate — Sep, Jan, May — Code: 1493
 - 전기공학 기술자 / Electrical Engineering Technician — Diploma — Sep — Code: 0071
 - 전기공학 기술자 - 산업 (코업 옵션) / Electrical Engineering Technician - Industrial — Diploma — Sep, Jan — Code: 1154
@@ -293,6 +299,7 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 - 전자공학 테크놀로지 (코업 옵션) / Electronics Engineering Technology — Adv Diploma — Sep — Code: 0098
 - 에너지 시스템 엔지니어링 기술 - 전기 (코업 옵션) / Energy Systems Engineering Technology - Electrical — Adv Diploma — Sep — Code: 0029
 - 환경공학 응용 (코업 옵션) / Environmental Engineering Applications — Grad Cert — Sep — Code: 0870
+- 금융 기술 / Financial Technology — Grad Cert — Sep, Jan, May — Code: 1519
 - 난방, 냉장 및 에어컨 기술자 / Heating, Refrigeration and Air Conditioning Technician — Diploma — Sep, Jan — Code: 0465
 - IT 혁신 및 디자인 (코업 옵션) / IT Innovation and Design — Adv Diploma — Sep, Jan — Code: 0040
 - 정보기술 비즈니스 분석 / Information Technology Business Analysis — Grad Cert — Sep, Jan, May — Code: 1372
@@ -312,16 +319,34 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 - 용접공학 기술자 - 로보틱스 (코업 옵션) / Welding Engineering Technician - Robotics — Diploma — Sep, Jan — Code: 1502
 - 용접공학 테크놀로지 - 검사 (코업 옵션) / Welding Engineering Technology - Inspection — Adv Diploma — Sep — Code: 0043
 
-### 교육 / Education (5)
-- 지역사회 및 형사사법 학사 (우등) / Bachelor of Community and Criminal Justice (Honours) — Degree — Sep — Code: 1240C
-- 유아교육 프로그램 개발 학사 (우등) / Bachelor of Early Learning Program Development (Honours) — Degree — Sep — Code: 1355C
+### 2. Education / 교육 (3)
 - 유아교육 / Early Childhood Education — Diploma — Sep, Jan, May — Code: 0003
 - 유아교육 패스트트랙 / Early Childhood Education Fast Track — Diploma — Sep — Code: 00031
 - 교육 지원 / Educational Support — Diploma — Sep — Code: 1332
 
-### 기술직 / Trade (20)
+### 3. Healthcare / 보건 (17)
+- 아동 정신 건강 서비스 / Children's Mental Health Services — Grad Cert — Sep — Code: 1617
+- 커뮤니티 약국 보조 / Community Pharmacy Assistant — Certificate — Sep, Jan, May — Code: 1499
+- 국제 교육 이수 간호사를 위한 향상 실습 / Enhanced Practice for Internationally Educated Nurses — Grad Cert — Sep, Jan, May — Code: 1513
+- 헬스케어 프로젝트 리더십 및 관리 / Healthcare Project Leadership and Management — Grad Cert — Sep, Jan, May — Code: 1638
+- 보청기 전문가 / Hearing Instrument Specialist — Diploma — Sep — Code: 1176
+- 휴먼 서비스 기초 / Human Services Foundation — Certificate — Sep, Jan, May — Code: 1053
+- 감염 예방 및 관리 / Infection Prevention and Control — Grad Cert — Sep, May — Code: 1621
+- 지역사회 서비스 관리 / Management in Community Services — Grad Cert — Jan, May — Code: 1276
+- 의료검사실 보조/기술자 / Medical Laboratory Assistant/Technician — Certificate — Jan, May — Code: 1620
+- 정신건강, 중독 및 물질 사용 / Mental Health, Addiction, and Substance Use — Grad Cert — Sep, Jan, May — Code: 1401
+- 작업치료사 보조 및 물리치료사 보조 / Occupational Therapist Assistant & Physiotherapist Assistant — Diploma — Sep — Code: 1111
+- 퍼스널 서포트 워커 - 국제과정 / Personal Support Worker - International — Certificate — Sep, Jan, May — Code: 11651
+- 약무 기술자 / Pharmacy Technician — Diploma — Sep, Jan — Code: 1501
+- 실무 간호 / Practical Nursing — Diploma — Sep, Jan — Code: 1077
+- 보건계열 진학 예비과정 - 고급 디플로마 및 학위 / Pre-Health Sciences Pathway to Advanced Diplomas and Degrees — Certificate — Sep — Code: 1214
+- 보건계열 진학 예비과정 - 수료증 및 디플로마 / Pre-Health Sciences Pathway to Certificates and Diplomas — Certificate — Sep, Jan — Code: 1306
+- 사회복지 실무자 / Social Service Worker — Diploma — Sep, Jan — Code: 0009
+
+### 4. Trade / 기술직 (21)
 - 고급 CNC 제조 / Advanced CNC Manufacturing — Grad Cert — Sep, Jan, May — Code: 1581
 - 목공 및 리노베이션 기술자 (코업 옵션) / Carpentry and Renovation Technician — Diploma — Sep — Code: 1142
+- 건설 관리 (코업 옵션) / Construction Management — Grad Cert — Sep, Jan, May — Code: 1378G
 - 건설 기술 (목공) / Construction Techniques (Carpentry) — Certificate — Sep — Code: 07165
 - 건설 기술 (목공, 전기, HVAC 및 용접) / Construction Techniques (Carpentry, Electrical, HVAC and Welding) — Certificate — Sep — Code: 07161
 - 건설 기술 (벽돌, 배관, 전기, 목공) / Construction Techniques (Masonry, Plumbing, Electrical, and Carpentry) — Certificate — May — Code: 07164
@@ -341,74 +366,47 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 - 목공 기술자 / Woodworking Technician — Diploma — Sep — Code: 0054
 - 목공 테크놀로지 (코업 옵션) / Woodworking Technology — Adv Diploma — Sep — Code: 0804
 
-### 보건 / Health care (14)
-- 아동 정신 건강 서비스 / Children's Mental Health Services — Grad Cert — Sep — Code: 1617
-- 커뮤니티 약국 보조 / Community Pharmacy Assistant — Certificate — Sep, Jan, May — Code: 1499
-- 국제 교육 이수 간호사를 위한 향상 실습 / Enhanced Practice for Internationally Educated Nurses — Grad Cert — Sep, Jan, May — Code: 1513
-- 헬스케어 프로젝트 리더십 및 관리 / Healthcare Project Leadership and Management — Grad Cert — Sep, Jan, May — Code: 1638
-- 보청기 전문가 / Hearing Instrument Specialist — Diploma — Sep — Code: 1176
-- 감염 예방 및 관리 / Infection Prevention and Control — Grad Cert — Sep, May — Code: 1621
-- 의료검사실 보조/기술자 / Medical Laboratory Assistant/Technician — Certificate — Jan, May — Code: 1620
-- 정신건강, 중독 및 물질 사용 / Mental Health, Addiction, and Substance Use — Grad Cert — Sep, Jan, May — Code: 1401
-- 작업치료사 보조 및 물리치료사 보조 / Occupational Therapist Assistant & Physiotherapist Assistant — Diploma — Sep — Code: 1111
-- 퍼스널 서포트 워커 - 국제과정 / Personal Support Worker - International — Certificate — Sep, Jan, May — Code: 11651
-- 약무 기술자 / Pharmacy Technician — Diploma — Sep, Jan — Code: 1501
-- 실무 간호 / Practical Nursing — Diploma — Sep, Jan — Code: 1077
-- 보건계열 진학 예비과정 - 고급 디플로마 및 학위 / Pre-Health Sciences Pathway to Advanced Diplomas and Degrees — Certificate — Sep — Code: 1214
-- 보건계열 진학 예비과정 - 수료증 및 디플로마 / Pre-Health Sciences Pathway to Certificates and Diplomas — Certificate — Sep, Jan — Code: 1306
-
-### 비즈니스 / Business (6)
-- 비즈니스 - 보험 (코업 옵션) / Business - Insurance — Diploma — Sep, Jan — Code: 0722
-- 비즈니스 - 상업용 트럭 운송을 위한 공급망 및 운영 관리 / Business - Supply Chain and Operations for Commercial Trucking — Diploma — Sep, Jan, May — Code: 1540
-- 건설 관리 (코업 옵션) / Construction Management — Grad Cert — Sep, Jan, May — Code: 1378G
-- 소셜미디어 마케팅 / Social Media Marketing — Grad Cert — Sep, Jan, May — Code: 1537
-- 글로벌 공급망 관리 / Supply Chain Management - Global — Grad Cert — Sep, Jan, May — Code: 1411
-- 전자 상거래 관리 / eCommerce Management — Grad Cert — Sep, May — Code: 1604
-
-### 농업·식품 / Agriculture and agri-food (3)
+### 5. Agriculture and agri-food / 농업·식품 (4)
 - 농업 비즈니스 관리 / Agri-Business Management — Grad Cert — Sep, Jan, May — Code: 1588
+- 조리 기술 (코업) / Culinary Skills (Co-op) — Certificate — Sep, Jan — Code: 1025C
 - 수의 보조 / Veterinary Assistant — Certificate — Sep, Jan, May — Code: 1548
 - 수의 기술자 / Veterinary Technician — Diploma — Sep, Jan, May — Code: 1547
 
-### 운송 / Transport (2)
+### 6. Transport / 운송 (4)
+- 비즈니스 - 상업용 트럭 운송을 위한 공급망 및 운영 관리 / Business - Supply Chain and Operations for Commercial Trucking — Diploma — Sep, Jan, May — Code: 1540
 - 동력장치 기술자 - 중장비 (코업 옵션) / Motive Power Technician - Heavy Duty Equipment — Diploma — Sep — Code: 0687
 - 동력장치 기술 - 중장비 정비 / Motive Power Techniques - Heavy Duty Equipment Repair — Certificate — Sep — Code: 1506
+- 글로벌 공급망 관리 / Supply Chain Management - Global — Grad Cert — Sep, Jan, May — Code: 1411
 
-### 기타 / Other (11)
-- 조리 기술 (코업) / Culinary Skills (Co-op) — Certificate — Sep, Jan — Code: 1025C
-- 사이버보안 디지털 포렌식 / Digital Forensics in Cybersecurity — Grad Cert — Sep, Jan, May — Code: 1662
-- 유아교육 / Early Childhood Education — Diploma — Sep, Jan, May — Code: 0003
-- 유아교육 패스트트랙 / Early Childhood Education Fast Track — Diploma — Sep — Code: 00031
-- 금융 기술 / Financial Technology — Grad Cert — Sep, Jan, May — Code: 1519
-- 그래픽 디자인 / Graphic Design — Adv Diploma — Sep, Jan — Code: 0049
-- 휴먼 서비스 기초 / Human Services Foundation — Certificate — Sep, Jan, May — Code: 1053
-- 지역사회 서비스 관리 / Management in Community Services — Grad Cert — Jan, May — Code: 1276
-- 부동산 개발 및 관리 / Real Estate Development and Management — Grad Cert — Sep, Jan, May — Code: 1612
-- 사회복지 실무자 / Social Service Worker — Diploma — Sep, Jan — Code: 0009
-- 도시계획 및 GIS / Urban Planning and GIS — Diploma — Sep, Jan — Code: 1585
+---
 
-### 학위 예외 / Degree exemptions (21)
-- 애니메이션 학사 / Bachelor of Animation — Degree — Sep — Code: 1671C
-- 생명공학 응용 학사 (우등) / Bachelor of Applied Biotechnology (Honours) — Degree — Sep — Code: 1560C
-- 응용기술 학사 (우등) - 건축 프로젝트 및 시설 관리 / Bachelor of Applied Technology (Honours) - Architecture - Project and Facility Management — Degree — Aug — Code: 1099C
-- 경영학 학사 (우등) - 회계, 감사 및 IT / Bachelor of Business Administration (Honours) - Accounting, Audit and IT — Degree — Sep, Jan — Code: 1241C
-- 경영학 학사 (우등) - 국제경영 / Bachelor of Business Administration (Honours) - International Business Management — Degree — Sep, Jan — Code: 1172C
-- 지역사회 및 형사사법 학사 (우등) / Bachelor of Community and Criminal Justice (Honours) — Degree — Sep — Code: 1240C
-- 컴퓨터 사이언스 학사 / Bachelor of Computer Science — Degree — Sep, Jan — Code: 1635C
-- 컴퓨터 사이언스 학사 (우등) / Bachelor of Computer Science (Honours) — Degree — Sep, Jan — Code: 1514C
-- 데이터 분석 학사 / Bachelor of Data Analytics — Degree — Sep — Code: 1664C
-- 데이터사이언스 및 AI 학사 (우등) / Bachelor of Data Science and Artificial Intelligence (Honours) — Degree — Sep — Code: 1682C
-- 디자인 학사 (우등) / Bachelor of Design (Honours) — Degree — Sep — Code: 1336C
-- 유아교육 프로그램 개발 학사 (우등) / Bachelor of Early Learning Program Development (Honours) — Degree — Sep — Code: 1355C
-- 공학 학사 - 건축 시스템 공학 / Bachelor of Engineering - Building Systems Engineering — Degree — Aug — Code: 1425C
-- 공학 학사 - 전자 시스템 공학 / Bachelor of Engineering - Electronic Systems Engineering — Degree — Aug — Code: 1094C
-- 공학 학사 - 기계 시스템 공학 / Bachelor of Engineering - Mechanical Systems Engineering — Degree — Aug — Code: 1066C
-- 공학 학사 - 전력 시스템 공학 / Bachelor of Engineering - Power Systems Engineering — Degree — Aug — Code: 1458C
-- 공학 학사 - 지속 가능한 디자인 공학 / Bachelor of Engineering - Sustainable Design Engineering — Degree — Aug — Code: 1626C
-- 환경 공중 보건 학사 (우등) / Bachelor of Environmental Public Health (Honours) — Degree — Sep — Code: 1386C
-- 인적자원관리 학사 / Bachelor of Human Resource Management — Degree — Sep — Code: 1624C
-- 실내디자인 학사 (우등) / Bachelor of Interior Design (Honours) — Degree — Aug — Code: 1068C
-- 위험·위협·범죄분석 학사 (우등) / Bachelor of Risk, Threat, and Crime Analysis (Honours) — Degree — Sep — Code: 1657C
+### 🎓 Bachelor's Degree (학사과정) — Field of Study 요건 면제
+
+> 2025-03-11부터 bachelor's degree 프로그램은 field of study requirement가 면제된다. 즉, 위 6개 카테고리와 무관하게 PGWP 신청이 가능하다. 단, 다른 PGWP 요건(DLI, 프로그램 기간 등)은 충족해야 하며, 최종 판단은 IRCC.
+
+- 애니메이션 학사 / Bachelor of Animation — Sep — Code: 1671C
+- 생명공학 응용 학사 (우등) / Bachelor of Applied Biotechnology (Honours) — Sep — Code: 1560C
+- 응용기술 학사 (우등) - 건축 프로젝트 및 시설 관리 / Bachelor of Applied Technology (Honours) - Architecture - Project and Facility Management — Aug — Code: 1099C
+- 경영학 학사 (우등) - 회계, 감사 및 IT / Bachelor of Business Administration (Honours) - Accounting, Audit and IT — Sep, Jan — Code: 1241C
+- 경영학 학사 (우등) - 국제경영 / Bachelor of Business Administration (Honours) - International Business Management — Sep, Jan — Code: 1172C
+- 지역사회 및 형사사법 학사 (우등) / Bachelor of Community and Criminal Justice (Honours) — Sep — Code: 1240C
+- 컴퓨터 사이언스 학사 / Bachelor of Computer Science — Sep, Jan — Code: 1635C
+- 컴퓨터 사이언스 학사 (우등) / Bachelor of Computer Science (Honours) — Sep, Jan — Code: 1514C
+- 데이터 분석 학사 / Bachelor of Data Analytics — Sep — Code: 1664C
+- 데이터사이언스 및 AI 학사 (우등) / Bachelor of Data Science and Artificial Intelligence (Honours) — Sep — Code: 1682C
+- 디자인 학사 (우등) / Bachelor of Design (Honours) — Sep — Code: 1336C
+- 유아교육 프로그램 개발 학사 (우등) / Bachelor of Early Learning Program Development (Honours) — Sep — Code: 1355C
+- 공학 학사 - 건축 시스템 공학 / Bachelor of Engineering - Building Systems Engineering — Aug — Code: 1425C
+- 공학 학사 - 전자 시스템 공학 / Bachelor of Engineering - Electronic Systems Engineering — Aug — Code: 1094C
+- 공학 학사 - 기계 시스템 공학 / Bachelor of Engineering - Mechanical Systems Engineering — Aug — Code: 1066C
+- 공학 학사 - 전력 시스템 공학 / Bachelor of Engineering - Power Systems Engineering — Aug — Code: 1458C
+- 공학 학사 - 지속 가능한 디자인 공학 / Bachelor of Engineering - Sustainable Design Engineering — Aug — Code: 1626C
+- 환경 공중 보건 학사 (우등) / Bachelor of Environmental Public Health (Honours) — Sep — Code: 1386C
+- 인적자원관리 학사 / Bachelor of Human Resource Management — Sep — Code: 1624C
+- 실내디자인 학사 (우등) / Bachelor of Interior Design (Honours) — Aug — Code: 1068C
+- 위험·위협·범죄분석 학사 (우등) / Bachelor of Risk, Threat, and Crime Analysis (Honours) — Sep — Code: 1657C
+
+> ⚠️ 위 목록은 2026-04-06 기준 정리이며, IRCC는 eligible CIP codes를 수시로 업데이트한다. 상담 시에는 반드시 [Conestoga 공식 PGWP 페이지](https://www.conestogac.on.ca/international/apply-to-conestoga/pgwp-aligned-programs) 및 [IRCC eligible CIP codes](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study/currently-eligible.html)를 재확인할 것.
 
 ---
 
