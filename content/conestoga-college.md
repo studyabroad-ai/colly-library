@@ -286,103 +286,103 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 15.0501  
   - Code: 0465  
   - Link: https://www.conestogac.on.ca/fulltime/heating-refrigeration-and-air-conditioning-technician
-- **IT Innovation and Design (Optional Co-op)**  
+- **IT 혁신 및 디자인 (코업 옵션) / IT Innovation and Design (Optional Co-op)**  
   - Credential: Ontario College Advanced Diploma  
   - Start: September, January  
   - CIP: 11.0201  
   - Code: 0040  
   - Link: https://www.conestogac.on.ca/fulltime/it-innovation-and-design
-- **Information Technology Business Analysis**  
+- **정보기술 비즈니스 분석 / Information Technology Business Analysis**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 11.0501  
   - Code: 1372  
   - Link: https://www.conestogac.on.ca/fulltime/information-technology-business-analysis
-- **Information Technology Network Security**  
+- **정보기술 네트워크 보안 / Information Technology Network Security**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 11.1003  
   - Code: 1475  
   - Link: https://www.conestogac.on.ca/fulltime/information-technology-network-security
-- **Information Technology Project Management**  
+- **정보기술 프로젝트 관리 / Information Technology Project Management**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 11.1005  
   - Code: 1566  
   - Link: https://www.conestogac.on.ca/fulltime/information-technology-project-management
-- **Mechanical Engineering Technician - Automated Manufacturing (Optional Co-op)**  
+- **기계공학 기술자 - 자동화 제조 (코업 옵션) / Mechanical Engineering Technician - Automated Manufacturing (Optional Co-op)**  
   - Credential: Ontario College Diploma  
   - Start: September  
   - CIP: 15.0805  
   - Code: 0076  
   - Link: https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing
-- **Mechanical Engineering Technology - Design and Analysis (Optional Co-op)**  
+- **기계공학 테크놀로지 - 설계 및 해석 (코업 옵션) / Mechanical Engineering Technology - Design and Analysis (Optional Co-op)**  
   - Credential: Ontario College Advanced Diploma  
   - Start: September  
   - CIP: 15.0805  
   - Code: 0073  
   - Link: https://www.conestogac.on.ca/fulltime/mechanical-engineering-technology-design-and-analysis
-- **Mechanical Engineering Technology - Robotics and Automation (Optional Co-op)**  
+- **기계공학 테크놀로지 - 로보틱스 및 자동화 (코업 옵션) / Mechanical Engineering Technology - Robotics and Automation (Optional Co-op)**  
   - Credential: Ontario College Advanced Diploma  
   - Start: September  
   - CIP: 15.0405  
   - Code: 0092  
   - Link: https://www.conestogac.on.ca/fulltime/mechanical-engineering-technology-robotics-and-automation
-- **Network Technical Support**  
+- **네트워크 기술 지원 / Network Technical Support**  
   - Credential: Ontario College Certificate  
   - Start: September, January, May  
   - CIP: 11.1001  
   - Code: 1470  
   - Link: https://www.conestogac.on.ca/fulltime/network-technical-support
-- **Occupational Health, Safety and Wellness**  
+- **산업보건, 안전 및 웰니스 / Occupational Health, Safety and Wellness**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 15.0701  
   - Code: 1395  
   - Link: https://www.conestogac.on.ca/fulltime/occupational-health-safety-and-wellness
-- **Robotics and Industrial Automation (Optional Co-op)**  
+- **로보틱스 및 산업 자동화 (코업 옵션) / Robotics and Industrial Automation (Optional Co-op)**  
   - Credential: Ontario College Graduate Certificate  
   - Start: January  
   - CIP: 15.0405  
   - Code: 1330G  
   - Link: https://www.conestogac.on.ca/fulltime/robotics-and-industrial-automation
-- **Software Engineering Technician**  
+- **소프트웨어 공학 기술자 / Software Engineering Technician**  
   - Credential: Ontario College Diploma  
   - Start: September  
   - CIP: 15.1204  
   - Code: 1046  
   - Link: https://www.conestogac.on.ca/fulltime/software-engineering-technician
-- **Software Engineering Technology (Optional Co-op)**  
+- **소프트웨어 공학 테크놀로지 (코업 옵션) / Software Engineering Technology (Optional Co-op)**  
   - Credential: Ontario College Advanced Diploma  
   - Start: September, January  
   - CIP: 15.1204  
   - Code: 1132  
   - Link: https://www.conestogac.on.ca/fulltime/software-engineering-technology
-- **Software Quality Assurance and Test Engineering (Optional Co-op)**  
+- **소프트웨어 품질보증 및 테스트 엔지니어링 (코업 옵션) / Software Quality Assurance and Test Engineering (Optional Co-op)**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 11.0103  
   - Code: 1447  
   - Link: https://www.conestogac.on.ca/fulltime/software-quality-assurance-and-test-engineering
-- **Sustainable Waste Management (Optional Co-op)**  
+- **지속가능 폐기물 관리 (코업 옵션) / Sustainable Waste Management (Optional Co-op)**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 15.0501  
   - Code: 1599  
   - Link: https://www.conestogac.on.ca/fulltime/sustainable-waste-management
-- **Virtual Reality Production**  
+- **가상현실 제작 / Virtual Reality Production**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 11.0804  
   - Code: 1515  
   - Link: https://www.conestogac.on.ca/fulltime/virtual-reality-production
-- **Welding Engineering Technician - Robotics (Optional Co-op)**  
+- **용접공학 기술자 - 로보틱스 (코업 옵션) / Welding Engineering Technician - Robotics (Optional Co-op)**  
   - Credential: Ontario College Diploma  
   - Start: September, January  
   - CIP: 15.0614  
   - Code: 1502  
   - Link: https://www.conestogac.on.ca/fulltime/welding-engineering-technician-robotics
-- **Welding Engineering Technology - Inspection (Optional Co-op)**  
+- **용접공학 테크놀로지 - 검사 (코업 옵션) / Welding Engineering Technology - Inspection (Optional Co-op)**  
   - Credential: Ontario College Advanced Diploma  
   - Start: September  
   - CIP: 15.0614  
@@ -398,7 +398,7 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - Link: https://www.conestogac.on.ca/fulltime/educational-support
 
 ### 기술직 / Trade (20)
-- **Advanced CNC Manufacturing**  
+- **고급 CNC 제조 / Advanced CNC Manufacturing**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 48.0510  
@@ -446,73 +446,73 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 46.0302  
   - Code: 1327  
   - Link: https://www.conestogac.on.ca/fulltime/electrical-techniques
-- **Mechanical Technician - General Machinist (Optional Co-op)**  
+- **기계 기술자 - 일반 기계가공 (코업 옵션) / Mechanical Technician - General Machinist (Optional Co-op)**  
   - Credential: Ontario College Diploma  
   - Start: September, May  
   - CIP: 48.0501  
   - Code: 1133  
   - Link: https://www.conestogac.on.ca/fulltime/mechanical-technician-general-machinist
-- **Mechanical Technician - Tool and Die/Tool Maker (Optional Co-op)**  
+- **기계 기술자 - 금형/공구 제작 (코업 옵션) / Mechanical Technician - Tool and Die/Tool Maker (Optional Co-op)**  
   - Credential: Ontario College Diploma  
   - Start: September, May  
   - CIP: 48.0501  
   - Code: 1135  
   - Link: https://www.conestogac.on.ca/fulltime/mechanical-technician-tool-and-die-tool-maker
-- **Mechanical Techniques - Gas and Sheet Metal**  
+- **기계 기술 - 가스 및 판금 / Mechanical Techniques - Gas and Sheet Metal**  
   - Credential: Ontario College Certificate  
   - Start: May  
   - CIP: 48.0506  
   - Code: 1511  
   - Link: https://www.conestogac.on.ca/fulltime/mechanical-techniques-gas-and-sheet-metal
-- **Mechanical Techniques - Industrial Millwright**  
+- **기계 기술 - 산업 설비정비 / Mechanical Techniques - Industrial Millwright**  
   - Credential: Ontario College Certificate  
   - Start: September  
   - CIP: 47.0303  
   - Code: 1385  
   - Link: https://www.conestogac.on.ca/fulltime/mechanical-techniques-industrial-millwright
-- **Mechanical Techniques - Plumbing**  
+- **기계 기술 - 배관 / Mechanical Techniques - Plumbing**  
   - Credential: Ontario College Certificate  
   - Start: September  
   - CIP: 46.0503  
   - Code: 1245  
   - Link: https://www.conestogac.on.ca/fulltime/mechanical-techniques-plumbing
-- **Motive Power Technician - Heavy Duty Equipment (Optional Co-op)**  
+- **동력장치 기술자 - 중장비 (코업 옵션) / Motive Power Technician - Heavy Duty Equipment (Optional Co-op)**  
   - Credential: Ontario College Diploma  
   - Start: September  
   - CIP: 47.0302  
   - Code: 0737  
   - Link: https://www.conestogac.on.ca/fulltime/motive-power-technician-heavy-duty-equipment
-- **Motive Power Techniques - Heavy Duty Equipment Repair**  
+- **동력장치 기술 - 중장비 정비 / Motive Power Techniques - Heavy Duty Equipment Repair**  
   - Credential: Ontario College Certificate  
   - Start: September  
   - CIP: 47.0302  
   - Code: 1382  
   - Link: https://www.conestogac.on.ca/fulltime/motive-power-techniques-heavy-duty-equipment-repair
-- **Renewable Energy Techniques**  
+- **재생에너지 기술 / Renewable Energy Techniques**  
   - Credential: Ontario College Certificate  
   - Start: September, January, May  
   - CIP: 47.0701  
   - Code: 1530  
   - Link: https://www.conestogac.on.ca/fulltime/renewable-energy-techniques
-- **Welding Techniques**  
+- **용접 기술 / Welding Techniques**  
   - Credential: Ontario College Certificate  
   - Start: September, January, May  
   - CIP: 48.0508  
   - Code: 1193  
   - Link: https://www.conestogac.on.ca/fulltime/welding-techniques
-- **Welding and Fabrication Technician**  
+- **용접 및 제작 기술자 / Welding and Fabrication Technician**  
   - Credential: Ontario College Diploma  
   - Start: September  
   - CIP: 48.0508  
   - Code: 0046  
   - Link: https://www.conestogac.on.ca/fulltime/welding-and-fabrication-technician
-- **Woodworking Technician**  
+- **목공 기술자 / Woodworking Technician**  
   - Credential: Ontario College Diploma  
   - Start: September  
   - CIP: 48.0701  
   - Code: 0054  
   - Link: https://www.conestogac.on.ca/fulltime/woodworking-technician
-- **Woodworking Technology (Optional Co-op)**  
+- **목공 테크놀로지 (코업 옵션) / Woodworking Technology (Optional Co-op)**  
   - Credential: Ontario College Advanced Diploma  
   - Start: September  
   - CIP: 48.0701  
@@ -520,7 +520,7 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - Link: https://www.conestogac.on.ca/fulltime/woodworking-technology
 
 ### 기타 / Other (11)
-- **Culinary Skills (Co-op)**  
+- **조리 기술 (코업) / Culinary Skills (Co-op)**  
   - Credential: Ontario College Certificate  
   - Start: September, January  
   - CIP: 12.0500  
@@ -562,25 +562,25 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 44.0000  
   - Code: 1053  
   - Link: https://www.conestogac.on.ca/fulltime/human-services-foundation
-- **Management in Community Services**  
+- **지역사회 서비스 관리 / Management in Community Services**  
   - Credential: Ontario College Graduate Certificate  
   - Start: January, May  
   - CIP: 19.0707  
   - Code: 1276  
   - Link: https://www.conestogac.on.ca/fulltime/management-in-community-services
-- **Real Estate Development and Management**  
+- **부동산 개발 및 관리 / Real Estate Development and Management**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 04.1001  
   - Code: 1612  
   - Link: https://www.conestogac.on.ca/fulltime/real-estate-development-and-management
-- **Social Service Worker**  
+- **사회복지 실무자 / Social Service Worker**  
   - Credential: Ontario College Diploma  
   - Start: September, January  
   - CIP: 44.0000  
   - Code: 0009  
   - Link: https://www.conestogac.on.ca/fulltime/social-service-worker
-- **Urban Planning and GIS**  
+- **도시계획 및 GIS / Urban Planning and GIS**  
   - Credential: Ontario College Diploma  
   - Start: September, January  
   - CIP: 04.0301  
@@ -594,13 +594,13 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 01.0101  
   - Code: 1588  
   - Link: https://www.conestogac.on.ca/fulltime/agri-business-management
-- **Veterinary Assistant**  
+- **수의 보조 / Veterinary Assistant**  
   - Credential: Ontario College Certificate  
   - Start: September, January, May  
   - CIP: 01.8301  
   - Code: 1548  
   - Link: https://www.conestogac.on.ca/fulltime/veterinary-assistant
-- **Veterinary Technician**  
+- **수의 기술자 / Veterinary Technician**  
   - Credential: Ontario College Diploma  
   - Start: September, January, May  
   - CIP: 01.8301  
@@ -620,7 +620,7 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 51.0805  
   - Code: 1499  
   - Link: https://www.conestogac.on.ca/fulltime/community-pharmacy-assistant/description?id=30133
-- **Enhanced Practice for Internationally Educated Nurses**  
+- **국제 교육 이수 간호사를 위한 향상 실습 / Enhanced Practice for Internationally Educated Nurses**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 51.3801  
@@ -638,55 +638,55 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 51.0918  
   - Code: 1176  
   - Link: https://www.conestogac.on.ca/fulltime/hearing-instrument-specialist
-- **Infection Prevention and Control**  
+- **감염 예방 및 관리 / Infection Prevention and Control**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, May  
   - CIP: 51.2202  
   - Code: 1621  
   - Link: https://www.conestogac.on.ca/fulltime/infection-prevention-and-control
-- **Medical Laboratory Assistant/Technician**  
+- **의료검사실 보조/기술자 / Medical Laboratory Assistant/Technician**  
   - Credential: Ontario College Certificate  
   - Start: January, May  
   - CIP: 51.0802  
   - Code: 1620  
   - Link: https://www.conestogac.on.ca/fulltime/medical-laboratory-assistant-technician
-- **Mental Health, Addiction, and Substance Use**  
+- **정신건강, 중독 및 물질 사용 / Mental Health, Addiction, and Substance Use**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 51.1599  
   - Code: 1401  
   - Link: https://www.conestogac.on.ca/fulltime/mental-health-addiction-and-substance-use
-- **Occupational Therapist Assistant & Physiotherapist Assistant**  
+- **작업치료사 보조 및 물리치료사 보조 / Occupational Therapist Assistant & Physiotherapist Assistant**  
   - Credential: Ontario College Diploma  
   - Start: September  
   - CIP: 51.0817  
   - Code: 1111  
   - Link: https://www.conestogac.on.ca/fulltime/occupational-therapist-assistant-physiotherapist-assistant
-- **Personal Support Worker - International**  
+- **퍼스널 서포트 워커 - 국제과정 / Personal Support Worker - International**  
   - Credential: Ontario College Certificate  
   - Start: September, January, May  
   - CIP: 51.2602  
   - Code: 11651  
   - Link: https://www.conestogac.on.ca/fulltime/personal-support-worker-international
-- **Pharmacy Technician**  
+- **약무 기술자 / Pharmacy Technician**  
   - Credential: Ontario College Diploma  
   - Start: September, January  
   - CIP: 51.0805  
   - Code: 1501  
   - Link: https://www.conestogac.on.ca/fulltime/pharmacy-technician
-- **Practical Nursing**  
+- **실무 간호 / Practical Nursing**  
   - Credential: Ontario College Diploma  
   - Start: September, January  
   - CIP: 51.3901  
   - Code: 1077  
   - Link: https://www.conestogac.on.ca/fulltime/practical-nursing
-- **Pre-Health Sciences Pathway to Advanced Diplomas and Degrees**  
+- **보건계열 진학 예비과정 - 고급 디플로마 및 학위 / Pre-Health Sciences Pathway to Advanced Diplomas and Degrees**  
   - Credential: Ontario College Certificate  
   - Start: September  
   - CIP: 51.1199  
   - Code: 1214  
   - Link: https://www.conestogac.on.ca/fulltime/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees
-- **Pre-Health Sciences Pathway to Certificates and Diplomas**  
+- **보건계열 진학 예비과정 - 수료증 및 디플로마 / Pre-Health Sciences Pathway to Certificates and Diplomas**  
   - Credential: Ontario College Certificate  
   - Start: September, January  
   - CIP: 51.1199  
@@ -694,7 +694,7 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - Link: https://www.conestogac.on.ca/fulltime/pre-health-sciences-pathway-to-certificates-and-diplomas
 
 ### 비즈니스 / Business (6)
-- **Business - Insurance (Optional Co-op)**  
+- **비즈니스 - 보험 (코업 옵션) / Business - Insurance (Optional Co-op)**  
   - Credential: Ontario College Diploma  
   - Start: September, January  
   - CIP: 52.1701  
@@ -706,19 +706,19 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 52.0209  
   - Code: 1540  
   - Link: https://www.conestogac.on.ca/fulltime/business-supply-chain-and-operations-for-commercial-trucking
-- **Construction Management (Optional Co-op)**  
+- **건설 관리 (코업 옵션) / Construction Management (Optional Co-op)**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 52.2001  
   - Code: 1378G  
   - Link: https://www.conestogac.on.ca/fulltime/construction-management
-- **Social Media Marketing**  
+- **소셜미디어 마케팅 / Social Media Marketing**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 52.1404  
   - Code: 1537  
   - Link: https://www.conestogac.on.ca/fulltime/social-media-marketing
-- **Supply Chain Management - Global**  
+- **글로벌 공급망 관리 / Supply Chain Management - Global**  
   - Credential: Ontario College Graduate Certificate  
   - Start: September, January, May  
   - CIP: 52.0203  
@@ -732,7 +732,7 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - Link: https://www.conestogac.on.ca/fulltime/ecommerce-management
 
 ### 학위 예외 / Degree exemptions (21)
-- **Bachelor of Animation**  
+- **애니메이션 학사 / Bachelor of Animation**  
   - Credential: Degree  
   - Start: September  
   - CIP: 10.0304  
@@ -744,7 +744,7 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 26.1201  
   - Code: 1560C  
   - Link: https://www.conestogac.on.ca/fulltime/bachelor-of-applied-biotechnology-honours
-- **Bachelor of Applied Technology (Honours) - Architecture - Project and Facility Management**  
+- **응용기술 학사 (우등 학사) - 건축 프로젝트 및 시설 관리 / Bachelor of Applied Technology (Honours) - Architecture - Project and Facility Management**  
   - Credential: Degree  
   - Start: August  
   - CIP: 15.0101  
@@ -756,13 +756,13 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 30.1601  
   - Code: 1241C  
   - Link: https://www.conestogac.on.ca/fulltime/bachelor-of-business-administration-honours-accounting-audit-and-information-technology
-- **Bachelor of Business Administration (Honours) - International Business Management**  
+- **경영학 학사 (우등 학사) - 국제경영 / Bachelor of Business Administration (Honours) - International Business Management**  
   - Credential: Degree  
   - Start: September, January  
   - CIP: 52.1101  
   - Code: 1172C  
   - Link: https://www.conestogac.on.ca/fulltime/bachelor-of-business-administration-honours-international-business-management
-- **Bachelor of Community and Criminal Justice (Honours)**  
+- **지역사회 및 형사사법 학사 (우등 학사) / Bachelor of Community and Criminal Justice (Honours)**  
   - Credential: Degree  
   - Start: September  
   - CIP: 43.0104  
@@ -786,7 +786,7 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 30.7101  
   - Code: 1664C  
   - Link: https://www.conestogac.on.ca/fulltime/bachelor-of-data-analytics
-- **Bachelor of Data Science and Artificial Intelligence (Honours)**  
+- **데이터사이언스 및 인공지능 학사 (우등 학사) / Bachelor of Data Science and Artificial Intelligence (Honours)**  
   - Credential: Degree  
   - Start: September  
   - CIP: 11.0101  
@@ -798,7 +798,7 @@ Conestoga는 **85개 이상 co-op 프로그램**을 운영한다고 안내한다
   - CIP: 50.0409  
   - Code: 1336C  
   - Link: https://www.conestogac.on.ca/fulltime/bachelor-of-design-honours
-- **Bachelor of Early Learning Program Development (Honours)**  
+- **유아교육 프로그램 개발 학사 (우등 학사) / Bachelor of Early Learning Program Development (Honours)**  
   - Credential: Degree  
   - Start: September  
   - CIP: 13.1210  
