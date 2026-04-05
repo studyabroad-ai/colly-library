@@ -371,11 +371,9 @@ Conestoga는 공식 student housing을 운영하며, 현재 확인된 안내 기
 ### 5. Agriculture and agri-food / 농업·식품 (1)
 - 농업 비즈니스 관리 / Agri-Business Management — Grad Cert — Sep, Jan, May — Code: 1588 — CIP: 01.0101
 
-### 6. Transport / 운송 (4)
-- 비즈니스 - 상업용 트럭 운송을 위한 공급망 및 운영 관리 / Business - Supply Chain and Operations for Commercial Trucking — Diploma — Sep, Jan, May — Code: 1540
-- 동력장치 기술자 - 중장비 (코업 옵션) / Motive Power Technician - Heavy Duty Equipment — Diploma — Sep — Code: 0687
-- 동력장치 기술 - 중장비 정비 / Motive Power Techniques - Heavy Duty Equipment Repair — Certificate — Sep — Code: 1506
-- 글로벌 공급망 관리 / Supply Chain Management - Global — Grad Cert — Sep, Jan, May — Code: 1411
+### 6. Transport / 운송 (2)
+- 비즈니스 - 상업용 트럭 운송을 위한 공급망 및 운영 관리 / Business - Supply Chain and Operations for Commercial Trucking — Diploma — Sep, Jan, May — Code: 1540 — CIP: 52.0209
+- 글로벌 공급망 관리 / Supply Chain Management - Global — Grad Cert — Sep, Jan, May — Code: 1411 — CIP: 52.0203
 
 ---
 
