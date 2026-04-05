@@ -13,6 +13,23 @@
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       min-height: 100vh;
     }
+    .gate-overlay {
+      position: fixed; inset: 0; background: rgba(13,17,23,0.94);
+      display: flex; align-items: center; justify-content: center; padding: 20px; z-index: 9999;
+    }
+    .gate-card {
+      width: 100%; max-width: 420px; background: #161b22; border: 1px solid #30363d; border-radius: 16px;
+      padding: 28px; text-align: center; box-shadow: 0 20px 60px rgba(0,0,0,0.35);
+    }
+    .gate-card .lock { font-size: 2.2rem; margin-bottom: 10px; }
+    .gate-card h2 { font-size: 1.35rem; margin-bottom: 8px; }
+    .gate-card p { color: #8b949e; font-size: 0.92rem; line-height: 1.6; margin-bottom: 18px; }
+    .gate-form { display:flex; gap:10px; }
+    .gate-form input { flex:1; background:#0d1117; color:#e6edf3; border:1px solid #30363d; border-radius:10px; padding:12px 14px; }
+    .gate-form button { background:#f778ba; color:#0d1117; border:none; border-radius:10px; padding:0 16px; font-weight:700; cursor:pointer; }
+    .gate-error { color:#f85149; font-size:0.82rem; margin-top:10px; min-height:18px; }
+    .protected { display:none; }
+    .protected.unlocked { display:block; }
     .top-bar {
       background: #161b22;
       border-bottom: 1px solid #21262d;
@@ -49,6 +66,20 @@
   </style>
 </head>
 <body>
+  <div class="gate-overlay" id="gate-overlay">
+    <div class="gate-card">
+      <div class="lock">🔒</div>
+      <h2>보호된 업무일지</h2>
+      <p>콜리의 서재 업무일지는 접근 토큰이 있어야 볼 수 있어.<br>한 번 통과하면 이 기기에서 계속 볼 수 있어.</p>
+      <div class="gate-form">
+        <input id="gate-input" type="password" placeholder="토큰 입력">
+        <button id="gate-submit">확인</button>
+      </div>
+      <div class="gate-error" id="gate-error"></div>
+    </div>
+  </div>
+
+  <div class="protected" id="protected-content">
   <div class="top-bar">
     <a class="logo" href="/">🐕 콜리의 서재</a>
     <nav>
@@ -73,8 +104,39 @@
 
     <footer>콜리의 서재 &copy; 2026</footer>
   </div>
+  </div>
 
   <script>
+    (function() {
+      const TOKEN = 'danny-colly-2026';
+      const STORAGE_KEY = 'colly_library_token_ok';
+      const overlay = document.getElementById('gate-overlay');
+      const protectedContent = document.getElementById('protected-content');
+      const input = document.getElementById('gate-input');
+      const submit = document.getElementById('gate-submit');
+      const error = document.getElementById('gate-error');
+
+      function unlock() {
+        overlay.style.display = 'none';
+        protectedContent.classList.add('unlocked');
+      }
+      if (localStorage.getItem(STORAGE_KEY) === 'ok') {
+        unlock();
+        return;
+      }
+      function tryUnlock() {
+        if (input.value === TOKEN) {
+          localStorage.setItem(STORAGE_KEY, 'ok');
+          unlock();
+        } else {
+          error.textContent = '토큰이 맞지 않아. 다시 확인해줘.';
+        }
+      }
+      submit.addEventListener('click', tryUnlock);
+      input.addEventListener('keydown', function(e) { if (e.key === 'Enter') tryUnlock(); });
+      input.focus();
+    })();
+
     function parseFrontmatter(text) {
       const match = text.match(/^---\n([\s\S]*?)\n---/);
       if (!match) return { meta: {}, body: text };
