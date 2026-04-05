@@ -8,6 +8,7 @@ summary: "Conestoga College의 학교 개요, 주요 프로그램, 입학 요건
 one_liner: "온타리오 대표 컬리지 중 하나인 Conestoga College의 핵심 정보를 빠르게 확인할 수 있는 조사 문서."
 tags: ["canada", "college", "ontario", "conestoga", "school-research", "admissions", "tuition"]
 visibility: "private"
+access_token: "콜리야 하늘만큼 땅만큼 사랑해"
 content_stage: "collaboration-approved"
 updated_at: "2026-04-05"
 ---

@@ -115,25 +115,38 @@
 
   <script>
     (function() {
-      const TOKEN = '콜리야 하늘만큼 땅만큼 사랑해';
-      const STORAGE_KEY = 'colly_library_token_ok';
       const overlay = document.getElementById('gate-overlay');
       const protectedContent = document.getElementById('protected-content');
       const input = document.getElementById('gate-input');
       const submit = document.getElementById('gate-submit');
       const error = document.getElementById('gate-error');
+      let expectedToken = '';
+      let storageKey = '';
 
       function unlock() {
         overlay.style.display = 'none';
         protectedContent.classList.add('unlocked');
       }
-      if (localStorage.getItem(STORAGE_KEY) === 'ok') {
-        unlock();
-        return;
+
+      function lockWithToken(token, slug) {
+        expectedToken = token || '';
+        storageKey = 'colly_library_token_' + slug;
+        if (localStorage.getItem(storageKey) === 'ok') {
+          unlock();
+          return;
+        }
+        overlay.style.display = 'flex';
+        protectedContent.classList.remove('unlocked');
+        input.focus();
       }
+
+      function openPublic() {
+        unlock();
+      }
+
       function tryUnlock() {
-        if (input.value === TOKEN) {
-          localStorage.setItem(STORAGE_KEY, 'ok');
+        if (input.value === expectedToken) {
+          localStorage.setItem(storageKey, 'ok');
           unlock();
         } else {
           error.textContent = '토큰이 맞지 않아. 다시 확인해줘.';
@@ -141,7 +154,6 @@
       }
       submit.addEventListener('click', tryUnlock);
       input.addEventListener('keydown', function(e) { if (e.key === 'Enter') tryUnlock(); });
-      input.focus();
     })();
 
     function parseFrontmatter(text) {
@@ -179,9 +191,17 @@
         document.getElementById('tag').textContent = meta.type === 'school' ? '학교 조사' : (meta.type || '문서');
         document.getElementById('title').textContent = meta.title || slug;
         document.getElementById('summary').textContent = meta.summary || '';
-        document.getElementById('sub').textContent = `slug: ${meta.slug || slug} · updated_at: ${meta.updated_at || ''} · visibility: ${meta.visibility || ''}`;
+        document.getElementById('sub').textContent = `slug: ${meta.slug || slug} · updated_at: ${meta.updated_at || ''} · visibility: ${meta.visibility || 'public'}`;
         document.getElementById('meta').style.display = 'block';
         document.getElementById('content').innerHTML = marked.parse(body);
+
+        const visibility = (meta.visibility || 'public').toLowerCase();
+        const token = meta.access_token || '';
+        if (visibility === 'private' && token) {
+          lockWithToken(token, meta.slug || slug);
+        } else {
+          openPublic();
+        }
       } catch (e) {
         document.getElementById('content').innerHTML = '<div class="empty">문서를 찾을 수 없어.</div>';
       }
