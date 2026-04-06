@@ -88,7 +88,7 @@
       <h2>보호된 문서</h2>
       <p>콜리의 서재 문서는 접근 토큰이 있어야 열람할 수 있어.<br>한 번 통과하면 이 기기에서 계속 볼 수 있어.</p>
       <div class="gate-form">
-        <input id="gate-input" type="password" placeholder="토큰 입력">
+        <input id="gate-input" type="text" placeholder="토큰 입력" autocomplete="off" lang="ko" inputmode="text">
         <button id="gate-submit">확인</button>
       </div>
       <div class="gate-error" id="gate-error"></div>
@@ -178,7 +178,7 @@
       }
     }
     submit.addEventListener('click', tryUnlock);
-    input.addEventListener('keydown', function(e) { if (e.key === 'Enter') tryUnlock(); });
+    input.addEventListener('keydown', function(e) { if (e.isComposing) return; if (e.key === 'Enter') tryUnlock(); });
 
     function parseFrontmatter(text) {
       const match = text.match(/^---\n([\s\S]*?)\n---/);
